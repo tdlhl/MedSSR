@@ -1,0 +1,5476 @@
+[
+  {
+    "id": "bioasq-55030a6ce9bde6963400000f",
+    "question": "Is Titin the largest single protein molecule found in Nature?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a992eac1d1251d03b00000c",
+    "question": "Can non ubiquitinated Tomm20 promote mitophagy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571e3e2abb137a4b0c000008",
+    "question": "Are OATP1B1 and OATP1B3 associated with bilirubin transport?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b2ecd34003448f55000003",
+    "question": "Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5aa304f1d6d6b54f79000004",
+    "question": "Is the consumption of chocolate associated with an increase in cardiovascular disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a67ade5b750ff445500000c",
+    "question": "Does erythromycin increase risk of hypertrophic pyloric stenosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5709152ecf1c325851000014",
+    "question": "Does a linker histone exist in the yeast genome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5aa825b1fcf4565872000003",
+    "question": "Are stress granules membraneous?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6031002d1cb411341a000129",
+    "question": "Are PDXK mutations linked to polyneuropathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58963b0278275d0c4a00000c",
+    "question": "Is there alternative polyadenylation during zebrafish development?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553d0005f321868558000011",
+    "question": "Do plant genomes contain CpG islands?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c629fffe842deac67000009",
+    "question": "Does Groucho related gene 5 (GRG5) have a role only in late development?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64040d73201352f04a000010",
+    "question": "Can Efgartigimod be used for myasthenia gravis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601fff6a1cb411341a00007b",
+    "question": "Are there sex differences in oncogenic mutational processes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb2e60a43ad3127800000c",
+    "question": "Is the TFR1 gene dispensable for erythropoiesis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64040af9201352f04a00000d",
+    "question": "Is levosimendan effective for amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a8ee9d1fcd1d6a10c000027",
+    "question": "Is there a disease or condition called Exploding Head Syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-627926bc56bf9aee6f00001a",
+    "question": "Is there a way to distinguish COVID-19 clinically from other respiratory illnesses, particularly influenza?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64041dae201352f04a00001d",
+    "question": "Is deucravacitinib effective for psoriasis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ad255210340b9f058000018",
+    "question": "Is lumican a secreted protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530e131b5937551c09000002",
+    "question": "Is statin use associated with improved outcomes after aneurysmal subarachnoid hemorrhage?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a774e40faa1ab7d2e000007",
+    "question": "Is there a link between nuclear position and DNA repair pathway choice?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e26ede6fddd3e83e000015",
+    "question": "Is the number of described human nuclear mutations less than 50000?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58b67fae22d3005309000009",
+    "question": "Does the TOP2B/TOP2A expression ratio affect the response to AML chemotherapy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52ef7170c8da898910000012",
+    "question": "Is CD84 genetically associated with arthritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-603285861cb411341a000141",
+    "question": "Are Toll-like receptors (TLRs) induced by microbes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52ecd56198d023950500002b",
+    "question": "Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531d76a2267d7dd05300000a",
+    "question": "Does burning mouth syndrome preferentially affect post-mepopausal women?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6226317a3a8413c653000080",
+    "question": "Is Ameloblastoma (AB) a common benign tumor occurring in the brain?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e30e9e3fbd6abf43b00003c",
+    "question": "Is Ubrogepant effective for migraine?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c647c52e842deac6700001c",
+    "question": "Is erythropoietin effective for treatment of amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6429cfb557b1c7a315000005",
+    "question": "Should patients using inhaled glucocorticoids for asthma or COPD be advised to stop these medications to prevent COVID-19?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532bfd15d6d3ac6a34000017",
+    "question": "Is RIP1 (RIP-1) part of the necrosome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-641c516d690f196b5100003f",
+    "question": "Can Amyotrophic Lateral Sclerosis (ALS) be associated with a mutation of the Super Oxide Dismutase 1 (SOD) gene?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-551910fa622b19434500000b",
+    "question": "Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c72aaed7c78d6947100006f",
+    "question": "Is pazopanib an effective treatment of glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-513efe01bee46bd34c00000e",
+    "question": "Is paramyxovirus involved in human subacute thyroiditis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660c44f7fdcbea915f000033",
+    "question": "Can lactate levels predict mortality in paediatric sepsis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c52cde87e3cb0e23100000e",
+    "question": "Does allele phasing improve the phylogenetic utility of ultraconserved elements?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5167be1a298dcd4e5100005c",
+    "question": "is intense physical activity associated with longevity ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5896e22078275d0c4a000014",
+    "question": "Is apremilast effective for psoriatic arthritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5aacd38efcf4565872000006",
+    "question": "Is DNA polymerase θ involved in DNA repair?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64040edf201352f04a000011",
+    "question": "Based on clinical trial data, can pioglitazone delay cognitive impairment for people at risk for Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e494cf96d0a277941000008",
+    "question": "Is Nivolumab (Opdivo) a PD-L1 inhibitor?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c9f1b0cecadf2e73f00003c",
+    "question": "Are protamines ubiquitously expressed?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65ef83acdffffb9b6b000002",
+    "question": "is carotenodermia caused by an excess of lycopene in the diet?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661d2428eac11fad33000017",
+    "question": "Is ICD-10 encoding sensitive for capturing paediatric sepsis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5545dc7de233d84047000001",
+    "question": "Is there a role for transcription factories in genome organization?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a69031bb750ff445500001e",
+    "question": "Can doxycycline cause photosensitivity?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55031963e9bde6963400002a",
+    "question": "Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c7836dad774d04240000002",
+    "question": "Are Mesenchymal stem cells (MSC) multipotent cells?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58dcbb8c8acda34529000021",
+    "question": "Does the histone chaperone ASF1 interact with histones H1/H2?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c640c2ee842deac67000010",
+    "question": "Is there any role for HUWE1 in MYC signalling?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cae5125795f9a73e000024",
+    "question": "Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660812b4fdcbea915f000006",
+    "question": "Is Kagami-Ogata associated with a deletion in chromosome 14\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6616a250fdcbea915f000059",
+    "question": "Do PPIs increase the risk of gastric cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c8857e975a4a5d219000009",
+    "question": "Are apoE mimetics being considered as a treatment against Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5be47bff133db5eb78000018",
+    "question": "Can pets affect infant microbiomed?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64041e97201352f04a00001e",
+    "question": "Is daridorexant effective for insomnia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a8866958cb19eca6b000003",
+    "question": "Are neurexins localized at pre-synapses?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-620155b6c9dfcb9c09000024",
+    "question": "Is covid-19 induced anosmia caused by disruption of nuclear architecture?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c1d85cef6e394741000034",
+    "question": "Is there evidence that tomato juice lowers cholesterol levels?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-514a0f0ad24251bc05000052",
+    "question": "Does the Oncotype DX test work with paraffin embedded tissues?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e5b60adb761aafe0900000b",
+    "question": "Is the protein ABCG2 transmembrane?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-603e43d51cb411341a00015e",
+    "question": "Is Ixodes a species of tick?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-515df5b2298dcd4e5100002c",
+    "question": "Are there clinical trials on stem cells in multiple sclerosis\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a723edd2dc08e987e00000c",
+    "question": "Is Tofacitinib effective for Ulcerative Colitis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cc947b5795f9a73e000033",
+    "question": "Can SUMO affect calcium homeostasis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b8841189239fd259000001",
+    "question": "Is the Drosophila Translational Control Element (TCE) involved in spermatogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55016397e9bde69634000006",
+    "question": "Is Sarcolipin a regulatory/inhibitory protein of the Calcium ATPase SERCA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c57216e07647bbc4b000018",
+    "question": "In clinical trials, the H3 R antagonist CEP-26401 has a positive effect on cognition, yes or no?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-534bf050aeec6fbd07000015",
+    "question": "Have thyronamines effects on fat tissue?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-536172d17d100faa09000009",
+    "question": "Has silicon been used in treatment of  incontinence ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58850ac7e56acf5176000012",
+    "question": "Is there a role of proton beam therapy in medulloblastoma treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5512c91b6a8cde6b7200000b",
+    "question": "Are BRAF mutations common in melanoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5335b373d6d3ac6a34000050",
+    "question": "Is ospemifene effective for treatment of dyspareunia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f84eadc4010b4d7800004c",
+    "question": "Are advanced directives an expression of the patient's wishes for future care in case they become cognitively impaired or find themselves in critical condition?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf4fe960c95ad0c000005",
+    "question": "Is the ACE inhibitor indicated for lung cancer treatment?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61fa904fc9dfcb9c09000004",
+    "question": "Is Erythropoietin effective for neuroprotection of Preterm Infants.\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530f7cdde3eabad021000001",
+    "question": "Is amantadine effective for treatment of disorders conciousness?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5509ec41c2af5d5b70000006",
+    "question": "Is HER2 active only when it dimerizes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d12ae11930410b13000030",
+    "question": "Can fingolimod be used during pregnancy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-589a246878275d0c4a000030",
+    "question": "Is vortioxetine effective for treatment of depression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52e7b4a198d023950500001b",
+    "question": "Does thyroid hormone affect cardiac remodeling ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6630211d187cba990d00002d",
+    "question": "Is there an association between specific genotypes and the risk of ASD for Duchenne Muscular Dystrophy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58dd2cb08acda34529000029",
+    "question": "Is autophagy the process where bacteria ingest viral particles?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531d3dc0267d7dd053000005",
+    "question": "Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5523e8cc7b523f2123000007",
+    "question": "Has the protein GFP been used in transgenesis for live protein imaging?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e763c3fc6a8763d23000010",
+    "question": "Was vivotif licensed in Europe and the US at the same time?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a957a8cc344ae31e000001",
+    "question": "Does Vitamin D induce  autophagy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60282c3f1cb411341a0000fe",
+    "question": "Is istiratumab effective for pancreatic cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fd78702a43ad31278000005",
+    "question": "Does steroid 5A-Reductase deficiency lead to hermaphroditism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5713968e1174fb175500000d",
+    "question": "Could bioprinting be used in regenerative medicine against bone disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553a6a9fbc4f83e82800001c",
+    "question": "Are there Conserved Noncoding Elements (CNEs) in invertebrate genomes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56a375f8496b62f23f000002",
+    "question": "Are CTCF and BORIS involved in genome regulation and cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532f08b8d6d3ac6a34000029",
+    "question": "Are there any specific antidotes for rivaroxaban?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6609827afdcbea915f000011",
+    "question": "Is Tako-Tsubo syndrome is an irreversible form of an acute stress-related cardiomyopathy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52fb4b462059c6d71c00005f",
+    "question": "Is DITPA a thyroid hormone analog utilized in experimental and clinical studies\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d796f93706e8952800001e",
+    "question": "Has protein citrullination been implicated in rheumatoid arthritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6614fe3dfdcbea915f000045",
+    "question": "Is there an approved vaccine to prevent Zika virus infection during pregnancy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553fb11fc6a5098552000003",
+    "question": "Could Hyperthermic intraperitoneal chemotherapy (HIPEC) be effective for the treatment of recurrent ovarian cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f83281c4010b4d78000040",
+    "question": "Are only babies and young children at risk of severe malaria in endemic areas?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52efc001c8da898910000019",
+    "question": "Is oxalate renal excretion increased after bariatric surgery?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56f3f6b12ac5ed145900001a",
+    "question": "Is GAGA associated with nucleosome-free regions (NFR)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602e84e61cb411341a000126",
+    "question": "Is Tocilizumab (Actemra) used to block/antagonize the  IL-6 receptor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602673e91cb411341a0000c7",
+    "question": "Is Lanabecestat effective for Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5344194daeec6fbd07000006",
+    "question": "Is there any relationship between histone ubiquitylation and splicing?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661d56c0eac11fad3300001f",
+    "question": "Is there a specific cure for Ehlers-Danlos Syndrome?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66214f52b9f8b89d7e000005",
+    "question": "Is tumor expression of Topoisomerase I a biomarker of response to irinotecan in colorectal cancer patients therapy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a79d195faa1ab7d2e00000e",
+    "question": "Is celiac disease caused by gliadin-induced transglutaminase-2 (TG2)-dependent events ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b29bf545561f0573000003",
+    "question": "Are there any statistical methods for normalizing and identifying differential regions in histone modification ChIP-seq data?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-624c88a1e764a53204000002",
+    "question": "Is Satb1 a transcription factor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-513cdc38bee46bd34c000007",
+    "question": "Is thrombophilia related to increased risk of miscarriage?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5be48282133db5eb7800001b",
+    "question": "Is there any association between the human gut microbiome and depression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f7c4bd2059c6d71c00002d",
+    "question": "Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ab144fefcf4565872000012",
+    "question": "The TRPM2 gene is associated with development of spontaneous thromboembolism?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e323e93fbd6abf43b000059",
+    "question": "Does head ct increase brain tumor risk?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a70ea8299e2c3af2600000b",
+    "question": "Does Evolocumab improve cognitive function?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532c0946d6d3ac6a34000019",
+    "question": "Are there focused databases from which you can retrieve gene expression data on renal disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621b8dee3a8413c653000042",
+    "question": "Is Lysozyme abundant in human tears?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532f05bdd6d3ac6a34000026",
+    "question": "Has proteomics been used in the study of Pick's disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cefaaad0bf1360c000010",
+    "question": "Is pesticide exposure associated with polyneuropathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58df5efbc784871774000001",
+    "question": "Is dupilumab an antibody targeting the IL-1 receptor?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6df86b7c78d69471000045",
+    "question": "Is baricitinib effective for rheumatoid arthritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56ae69fb0a360a5e4500000d",
+    "question": "Are DNA methylation maps applicable to the diagnosis of non-small-cell lung carcinomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-642d4c9b57b1c7a315000013",
+    "question": "Are Luminopsins a fusion proteins of luminol and Rhodopsin ?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-513f4025bee46bd34c000011",
+    "question": "Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531a3fe3b166e2b806000038",
+    "question": "Is pregnancy an additional risk during during H1N1 infection?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55422640ccca0ce74b000004",
+    "question": "Does GC content vary markedly within a given isochore?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553fbe9fe00431e071000001",
+    "question": "Is the regulation of Vsr endonuclease independent of the growth phase of bacteria?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c72a5ca7c78d6947100006d",
+    "question": "As of Feb 2019, are major brain gangliosides a target for the treatment of Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a7a44b4faa1ab7d2e000010",
+    "question": "Is Loss of function one of the cardinal signs of inflammation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6026c1071cb411341a0000cb",
+    "question": "Is MK-1602 a CGRP antagonist?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ca61176ecadf2e73f00004e",
+    "question": "Can TAD disruption lead to disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e6f774ec6a8763d23000009",
+    "question": "Are bacteria in the genus Clostridium facultative anaerobes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5544bcde5beec11c10000003",
+    "question": "Are there conserved noncoding elements identified between genomes of human and teleosts?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-622d0aa63a8413c6530000a0",
+    "question": "Is ASF1 phopshorylated by  the Tousled-like kinases?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d62faf3706e89528000003",
+    "question": "Can NXY-059 be used for treatment of acute ischemic stroke patients?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602905e81cb411341a000108",
+    "question": "Is there a link between rare variants in PPARG and type 1 diabetes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-552010076b348bb82c000015",
+    "question": "Is there evidence to suggest that triiodothyronine has neuroprotective properties in traumatic brain injury?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5881e8e8713cbdfd3d000003",
+    "question": "Is Pfh1 a component of the replisome?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f93cc7882a024a1000004c",
+    "question": "Is nerinetide effective for ischaemic stroke?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e36994092b3349b55000002",
+    "question": "Is there a role for TET proteins in invariant natural killer T cells (iNKT) cell fate?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a773c50faa1ab7d2e000002",
+    "question": "Has ATF4 transcription factor been linked to cancer and neoplastic transformation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56d34fbcf22319765a000009",
+    "question": "Can chronological age be predicted by measuring telomere length?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56ed08062ac5ed1459000005",
+    "question": "Can RG7112 inhibit MDM2?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4b5f9a6d0a277941000021",
+    "question": "Should Pentoxifylline be used for treatment of amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e5b5c6fb761aafe0900000a",
+    "question": "Is the protein ABCG2 (ATP-Binding Cassette, subfamily G, member 2, transporter) excreting uric acid?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-604915581cb411341a00016a",
+    "question": "Is YKL-40 used as a biomarker for Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530f685c329f5fcf1e000002",
+    "question": "Is there an association between borna virus and brain tumor?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c58a74e86df2b917400000d",
+    "question": "Is Baloxavir effective for influenza?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c76be617c78d694710000a5",
+    "question": "Is the enzyme ERAP2 associated with the disease birdshot chorioretinopathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52d7b45e98d0239505000002",
+    "question": "is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f0369bc4010b4d78000001",
+    "question": "Is melatonin beneficial in the treatment of in cerebral ischemia-reperfusion injury:\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60490dc71cb411341a000167",
+    "question": "Are interferons defensive proteins?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e2dac4efbd6abf43b00000f",
+    "question": "Has istadefylline been considered as a treatment for Parkinson's disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-644efd2c57b1c7a315000085",
+    "question": "Do epigenetic changes change the DNA sequence?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cf27293975bb303a000003",
+    "question": "Does ziconotide bind to N-type calcium channels?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58bd672d02b8c60953000011",
+    "question": "Could divalent metal transporter 1 deficiency lead to anemia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56d19ffaab2fed4a47000001",
+    "question": "Is there a package in R/bioconductor for classification of alternative splicing?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf4fe960c95ad0c000003",
+    "question": "Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) cause sudden cardiac death?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52efc041c8da89891000001b",
+    "question": "Does thyroid hormone affect cardiac remodeling?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550895c12e93f0133a000002",
+    "question": "Can exosomes be detected in urine?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6201a85cc9dfcb9c0900002a",
+    "question": "Is there a dependence between chromatin organization and dorsoventral gene expression in Drosophila?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cca4da5795f9a73e000034",
+    "question": "Is sumoylation implicated in myogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-589644c478275d0c4a00000d",
+    "question": "Have the promoter regions of the genes implicated in Rett Syndrome been characterized with CAGE?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e323d79fbd6abf43b000058",
+    "question": "Can secondary glioblastoma be caused by brain irradiation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5884793ce56acf5176000008",
+    "question": "Is Migalastat used for treatment of Fabry Disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5f21a81a4c55d80b00001c",
+    "question": "Is selenocysteine an aminoacid?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a679be1b750ff4455000005",
+    "question": "Are organisms in the genus Morexella associated with sepsis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-622dd1433a8413c6530000a5",
+    "question": "Is taxilin a cancer marker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621fd6083a8413c653000066",
+    "question": "Unlike DNA, RNA is not methylated, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-620be4fd3a8413c653000002",
+    "question": "Does TIMELESS-TIPIN participate in replisome disassembly?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fe31319a43ad31278000046",
+    "question": "Can ATAC-Seq be employed in single-cell mode?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53314c98d6d3ac6a3400003b",
+    "question": "Does SCRIB deregulation promote cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58c276bc02b8c60953000020",
+    "question": "Do IEG create a ripple effect of transcription?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58bfeb2b02b8c6095300001a",
+    "question": "Is butterfly rash a symptom of Systemic lupus erythematosus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6032187e1cb411341a000132",
+    "question": "Are Gram positive bacteria able to release extracellular vesicles?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6278ddfe56bf9aee6f000013",
+    "question": "Are functional tests a good biomarker for Duchenne Muscular Dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6237a6e93a8413c6530000b1",
+    "question": "Does sphingosine-1 phosphoate suppress epiregulin?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d762653706e89528000014",
+    "question": "Can cognitive behavioral therapy improve fatigue in cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6428da47690f196b51000051",
+    "question": "Can the epigenetic status of introns affect gene expression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5159b990d24251bc050000a3",
+    "question": "Is cocaine use associated with increased risk for intracerebral hemorrhage?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-515debe7298dcd4e51000026",
+    "question": "Is abdominal pain a common symptom in autism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6020b0e21cb411341a000085",
+    "question": "Is Eflornithine and Sulindac are effective for prevention of progression in Familial Adenomatous Polyposis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e57fa23b761aafe09000008",
+    "question": "Is traditional Chinese medicine associated with a decreased risk of heart failure in breast cancer patients receiving doxorubicin treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-605265ee94d57fd87900000d",
+    "question": "Has FTY720  been considered for the treatment of stroke?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6217c0b63a8413c65300001e",
+    "question": "Does UBE4B promote renal cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56f555b609dd18d46b000007",
+    "question": "Is TALEN being used on stem cells?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5322de919b2d7acc7e000012",
+    "question": "Has proteomics been used in the study of the dry eye syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64463f9357b1c7a31500006a",
+    "question": "Are there any other types of Spinal Muscular Atrophy except for types 1-4?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b73c7a345adcac48000002",
+    "question": "Are circRNAs associated with diseases and traits?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e83a2342442bac75000001",
+    "question": "Are integrins part of the extracellular matrix?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c1d841ef6e39474100002d",
+    "question": "Is dichlorphenamide effective for periodic paralysis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5f2b771a4c55d80b000020",
+    "question": "Is P. gingivalis bacteria found in brain?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51598b08d24251bc0500009f",
+    "question": "Does strenuous physical activity affect thyroid hormone metabolism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5321b8a39b2d7acc7e000009",
+    "question": "Is there a relation between ANP and transcapillary albumin escape?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c62a529e842deac6700000b",
+    "question": "Is the yeast (Saccharomyces cerevisiae) genome organized into topologically associated domains (TADs)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c92159becadf2e73f000012",
+    "question": "Do tumour-associated macrophages have a prognostic role in gliomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6052715494d57fd87900000e",
+    "question": "Is FTY720 FDA approved?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f77f752059c6d71c00002b",
+    "question": "Are defects in recombination repair involved in carcinogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61faa1fcc9dfcb9c0900000a",
+    "question": "Is vocimagene amiretrorepvec effective for recurrent high-grade glioma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a7612b483b0d9ea6600001d",
+    "question": "Is enzastaurin effective treatment of glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f043e4f36125a426000023",
+    "question": "Is Baricitinib effective for Alopecia Areata?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5be44f50133db5eb78000017",
+    "question": "Can breastfeeding confer protection from type I diabetes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661d20b7eac11fad33000016",
+    "question": "Can cytomegalovirus (CMV) be transmitted via breast milk to premature infants?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6587d77c78d69471000005",
+    "question": "Can enasidenib be used for the treatment of acute myeloid leukemia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c03d1fef6e39474100001a",
+    "question": "Is nicotinamide effective for skin cancer prevention?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3c6e15b5b409ea53000023",
+    "question": "Are breaks in double stranded DNA associated with ionizing radiation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c89461675a4a5d219000013",
+    "question": "Is Netrin-1 a secreted protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c643485e842deac67000015",
+    "question": "Are de novo mutations in regulatory elements responsible for neurodevelopmental disorders?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e6e8600c6a8763d23000002",
+    "question": "Is the protein MCL-1 anti-apoptotic?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-59bf823b542ba3824b000001",
+    "question": "Does a tonsillectomy affect the patient's voice?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a991ee21d1251d03b000005",
+    "question": "Are there sex differences in the transcriptome of the mouse hippocampus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a7615af83b0d9ea6600001f",
+    "question": "Is vorinostat effective for glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65cfd8551930410b13000023",
+    "question": "Is vemurafenib–cobimetinib promising for craniopharyngioma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f859b2c4010b4d78000050",
+    "question": "Should all babies diagnosed with spina bifida be operated within the first week of life?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553bd2f0f321868558000008",
+    "question": "Is Growth factor independence 1b (GFI1B) important for hematopoiesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f938e7882a024a10000049",
+    "question": "Is Algenpantucel-L effective for pancreatic cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ec709aeda5a5767200000e",
+    "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5710a650cf1c32585100002b",
+    "question": "Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f73f1b33942b094c000008",
+    "question": "Is erenumab effective for trigeminal neuralgia?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ea659c3e8b6dc87c000013",
+    "question": "Is Prochlorococcus the most abundant photosynthetic organism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51680a49298dcd4e51000062",
+    "question": "Is it possible to detect survivin protein expression in normal human adult tissues?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5caa0806ecadf2e73f000057",
+    "question": "Is Apelin usually decreased in diabetes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52ef6da1c8da898910000011",
+    "question": "Does Chromatin Immunoprecipitation (ChIP) show a bias for highly expressed loci?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-587dfde9ae05ffb474000001",
+    "question": "Can the Micro-C XL method achieve mononucleosome resolution?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e30b56efbd6abf43b000037",
+    "question": "Is the BAGEL algorithm used for arrayed CRISPR screens?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660c49f4fdcbea915f000034",
+    "question": "Should corticosteroids be considered as adjunctive therapy in paediatric sepsis management?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c61bacae842deac67000001",
+    "question": "Is cariprazine effective for treatment of bipolar disorder?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e41620648dab47f2600000e",
+    "question": "Is poliosis circumscripta another term for a white or unpigmented patch of hair or skin?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532627d0d6d3ac6a34000001",
+    "question": "Does ventriculoperitoneal shunt improve normal pressure hydrocephalus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5540a8d20083d1bf0e000001",
+    "question": "Does a selective sweep increase genetic variation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6432f75757b1c7a31500001d",
+    "question": "Is Zanubrutinib a first-generation BTK inhibitor approved by US Food and Drug Administration (FDA)?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-606b3b6794d57fd879000064",
+    "question": "Is the glucocorticoid receptor a transcription factor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a8714e261bb38fb24000005",
+    "question": "Is polyadenylation a process that stabilizes a protein by adding a string of Adenosine residues to the end of the molecule?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52e8e96698d023950500001f",
+    "question": "Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)\ncause sudden cardiac death?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-62515021e764a53204000018",
+    "question": "Is Mical an oxidoreductase?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a67a72fb750ff445500000a",
+    "question": "Is propranolol used for treatment of infantile hemangioma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f77596c4010b4d7800002c",
+    "question": "Should PDYD polymorphism determination be routinely performed in patients with colorectal cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ef9ff170f9fc6f0f000002",
+    "question": "Is skin color affected by variations of the SLC24A5 gene?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602498cb1cb411341a00009e",
+    "question": "Is Olaparib effective for prostate cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-643c446357b1c7a31500002f",
+    "question": "Can reinfection occur after SARS-CoV-2 infection?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e48e0e0f8b2df0d49000001",
+    "question": "Are gut microbiota profiles altered by irradiation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3c80abb5b409ea53000024",
+    "question": "Thymoquinone is ineffective against radiation induced enteritis, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5f0c5a1a4c55d80b00000f",
+    "question": "Is  LRP1 interacting with Urokinase receptor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-644284a957b1c7a31500005c",
+    "question": "Is there any treatment for the Facioscapulohumeral Muscular Dystrophy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52e01f8f98d023950500000f",
+    "question": "Is it possible to purify pseudopodia to be used for proteomic analysis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-515df6f2298dcd4e5100002d",
+    "question": "Does melanoma  occur in people of African origin ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56f7c44109dd18d46b000013",
+    "question": "Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c02bc3ef6e394741000018",
+    "question": "Is vemurafenib effective for hairy-cell leukemia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-570a5c27cf1c325851000023",
+    "question": "Is Fibroblast Growth Factor 23 a phosphaturic hormone?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ec5ffaeda5a5767200000a",
+    "question": "Is dexamethasone recommended for treatment of intracerebral hemorrhage?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e36d498b5b409ea53000008",
+    "question": "Do de novo truncating mutations in WASF1 cause cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6415ca99690f196b51000019",
+    "question": "Have chimeric antigen receptor (CAR)-T cell therapies been approved for the treatment of B cell malignancies?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5544df2a5beec11c10000006",
+    "question": "Do conserved noncoding elements co-occur with matrix-attachment regions?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e43090d48dab47f26000011",
+    "question": "Are stem cell transplants used to treat acute kidney injury?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf57efe2466f70c000001",
+    "question": "Has depression been shown to be a predictor of frailty?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a86fd5bfaa1ab7d2e00003b",
+    "question": "Is a CpG island methylator phenotype involved in ependymomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a75f1f383b0d9ea66000006",
+    "question": "Can Logic Alignment Free (LAF) be used for bacterial genomes classification?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e5b90b3752ebcdc7a000002",
+    "question": "Can brain derived exosomes carry APP molecules?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fe31321a43ad3127800004b",
+    "question": "Is yeast fbp1 affected by glucose starvation stress?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f9cbb433942b094c00000c",
+    "question": "Is alternative splicing associated with heart disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c960d88ecadf2e73f00001f",
+    "question": "Tocilizumab is an anti-TNF antibody, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661c413f48a2c27714000006",
+    "question": "Does chromatin accessibility affect CRISPR-Cas9 efficiency?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-587e1e57fc7e8dd84f000003",
+    "question": "Are alterations in ultraconserved elements associated with colorectal adenocarcinoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cefaaad0bf1360c000008",
+    "question": "Is lambrolizumab effective for treatment of patients with melanoma ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb4253a43ad31278000022",
+    "question": "Do nematodes contain architectural proteins like CTCF?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571e06447de986d80d000016",
+    "question": "Is the SDHAF2 gene encoding a protein necessary for flavination of SDHA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51588c34d24251bc05000095",
+    "question": "Is TREM2 associated with Alzheimer's disease in humans?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3390fafbd6abf43b000060",
+    "question": "Does radiotherapy for cervical cancer increases risk of colon cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fe0c141a43ad31278000035",
+    "question": "Is the zelda transcription factor a chromatin remodeller?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553a5a34bc4f83e82800001a",
+    "question": "Is Ctf4 involved in sister chromatid cohesion establishment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6025ddde1cb411341a0000ba",
+    "question": "Is Tranexamic acid effective for intracerebral haemorrhage?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5aa82180d6d6b54f79000015",
+    "question": "Are osteoclasts specialized in bone degradation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54fc845e6ea36a810c000005",
+    "question": "Was modafinil tested for schizophrenia treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5357b5ecf1005d6b58000007",
+    "question": "Is PER3 required for CHK2 activation in human cells?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-625144c9e764a53204000016",
+    "question": "Is neurofilament light marker for disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3238bcfbd6abf43b000056",
+    "question": "Does radiation for tinea capitis increases brain tumor risk?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6d217eb750ff4455000034",
+    "question": "Are there ultraconserved genomic regions in the budding yeast?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5314d0e4dae131f84700000e",
+    "question": "Can administration of the thyrotropin releasing hormone reduce fatigue in cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51680b0e298dcd4e51000065",
+    "question": "Is the UGT1A1*28 polymorphism associated with irinotecan response in Caucasians?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bf365eef6e39474100000e",
+    "question": "Do mutations of AKT1 occur in meningiomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66300c23187cba990d00001a",
+    "question": "Can procalcitonin be used as a predictor for mortality in paediatric sepsis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601c18921cb411341a00000f",
+    "question": "Does an antiphlogistic promotes inflammation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c6f6005795f9a73e000009",
+    "question": "Are piRNAs involved in gene silencing?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c589ddb86df2b917400000b",
+    "question": "Is cabozantinib effective for hepatocellular carcinoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550748a3bde8548216000001",
+    "question": "Are mutations in the STXBP1 gene associated with epilepsy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c72bd047c78d69471000077",
+    "question": "Can pazopanib be used for treatment von Hippel-Lindau disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-622f6ad13a8413c6530000aa",
+    "question": "Can parasite infections by Schistosoma japonicum prevent or improve asthma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d9f7894b1fd0d33c00000a",
+    "question": "Is DNA methylation an epigenetic modification of chromatin related to gene expression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c9162b5ecadf2e73f00000e",
+    "question": "Is ustekinumab a polyclonal antibody?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-587e440f2420191125000005",
+    "question": "Does CRISPR inversion of CTCF sites alter genome topology?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65cfe1d21930410b1300002a",
+    "question": "Can capivasertib be used for breast cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55376b37bc4f83e82800000b",
+    "question": "Is CD99 encoded by MIC2 gene?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d63d873706e89528000006",
+    "question": "Is there any association of the chromosomal region harboring the gene ITIH3 with schizophrenia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58c0825502b8c6095300001b",
+    "question": "Do T-Cells regulate neuropathic pain?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58848ea5e56acf517600000e",
+    "question": "Is vemurafenib used for thyroid cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6060c7c094d57fd879000046",
+    "question": "Is cadherin a plasma membrane marker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f7778fc4010b4d78000031",
+    "question": "Is Trifluridine/Tipiracil a preferential treatment over Regorafenib in elderly colorectal cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64042000201352f04a000020",
+    "question": "Can lenacapavir be used for HIV?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63eef94ff36125a426000010",
+    "question": "Is Cinpanemab effective for Parkinson’s Disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66099eb9fdcbea915f000026",
+    "question": "Are BRAF V600E mutation associated to worse prognosis in colorectal cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6025fa371cb411341a0000be",
+    "question": "Does hypofractionated radiotherapy offers any benefit for DIPG?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5149e23dd24251bc0500004b",
+    "question": "Is marijuana use associated with increased risk for stroke?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6583117c78d69471000002",
+    "question": "Can midostaurin inhibit angiogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c97a08becadf2e73f000029",
+    "question": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6402c0d5201352f04a000008",
+    "question": "Does nintedanib improve response rate in patients with bladder cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6422e7ba690f196b51000044",
+    "question": "Have Quercetin-biapigenin nanoparticles been shown to be effective in penetrating the blood-brain barrier\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6027dc011cb411341a0000eb",
+    "question": "Does inactivation of CYLD help in colorectal cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e782fd3e8b6dc87c000006",
+    "question": "Does GATA-1 regulate ribosomal protein genes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c048e2ef6e39474100001d",
+    "question": "Is nintedanib effective for Idiopathic Pulmonary Fibrosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4b639c6d0a277941000027",
+    "question": "Is NicVAX vaccine effective for smoking cessation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c644c3de842deac67000018",
+    "question": "Is cohesin linked to myeloid differentiation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c8908a475a4a5d21900000c",
+    "question": "Is L-4F an apoE mimetic peptide?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571e3d42bb137a4b0c000007",
+    "question": "Is SLC22A3 expressed in the brain?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66301f5a187cba990d000028",
+    "question": "Are there any episignatures for Duchenne Muscular Dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c72f8557c78d69471000080",
+    "question": "Is Miller-Dieker syndrome associated with abnormalities of chromosome 1?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cae51f5795f9a73e000025",
+    "question": "Are immune cells affected in Amyotrophic Lateral Sclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f77236c4010b4d7800001f",
+    "question": "Do black race patients have worse survival in colorectal cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-643ff48a57b1c7a31500003d",
+    "question": "Is omaveloxolone a suppressor of Nrf2?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-589a246f78275d0c4a000034",
+    "question": "Is sonidegib effective for basal cell carcinoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54ff106b6ad7dcbc1200000c",
+    "question": "Are there telemedicine applications for chronic pain management?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c863385795f9a73e000015",
+    "question": "Is macitentan an ET agonist?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60234bd51cb411341a000093",
+    "question": "Is ofatumumab effective for multiple sclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf57efe2466f70c000006",
+    "question": "Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531d1279b166e2b806000042",
+    "question": "Is there a relationship between thyroid hormone altered metabolism and coronary artery disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-516d4b27298dcd4e51000077",
+    "question": "Does dronedarone  affect  T3 and T4 levels?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5607aa07647bbc4b00000e",
+    "question": "Is durvalumab used for lung cancer treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ad3013d0340b9f058000019",
+    "question": "Can GDF15 be a biomarker for metformin treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e2e1017fbd6abf43b000020",
+    "question": "Are CD8+ (cytotoxic) T cells and  CD4+ Helper T cells generated in the thyroid and express the T-cell receptor?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55031650e9bde69634000026",
+    "question": "Is PTEN involved in follicular thyroid carcinoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-551ae6c564b14b4618000001",
+    "question": "Are people with blood group O protected against severe Malaria?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a722a052dc08e987e000002",
+    "question": "Is Marfan syndrome associated with chordal rupture?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601d724a1cb411341a000035",
+    "question": "Is fusobacterium associated with Lemierre's syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5156be5ed24251bc05000087",
+    "question": "Is the microRNA 132 (miR-132) involved in brain pathologies?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e11b9b6fddd3e83e00000b",
+    "question": "Are cutaneous porphyrias inherited with a recessive pattern?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6057003594d57fd879000020",
+    "question": "Are the major royal jelly proteins similar to the yellow proteins?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f93e68882a024a1000004d",
+    "question": "Should perampanel be used for amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56f12ca92ac5ed145900000e",
+    "question": "Have gnotobiotic animal models been used for the study of bowel disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e64f1921af46fc130000018",
+    "question": "Is there a vaccine for rotavirus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6415b7b8690f196b5100000c",
+    "question": "Optogenetics refers to the study of gene expression optimization\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-644f0fd257b1c7a31500008a",
+    "question": "Do enhancers have to be close to their gene targets?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52fc946d2059c6d71c000071",
+    "question": "Is lambrolizumab effective for treatment of patients with melanoma ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6278d0a756bf9aee6f00000e",
+    "question": "Does p85α homodimerize?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58dbba438acda3452900001c",
+    "question": "Is Cri Du Chat associated with an expansion of a repeat with in the gene found on chromosome 5?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5215e67e3cb0e231000004",
+    "question": "Have machine learning methods been used to predict the severity of major depressive disorder(MDD)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550c1ca3a103b78016000003",
+    "question": "Is selenium deficiency involved in autoimmune thyroid disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5890e762621ea6ff7e000005",
+    "question": "Can acupuncture cause spinal epidural hematoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e80675d835f4e4777000026",
+    "question": "Is SARS virus interacting with ACE2 encoded protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-517179718ed59a060a00000e",
+    "question": "Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6e18d8b750ff4455000038",
+    "question": "Are Conserved Nonexonic Elements (CNEEs) important in phylogenomics research?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a68f633b750ff4455000019",
+    "question": "Is creatinine assessment included in the MELD score?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a760ed883b0d9ea66000019",
+    "question": "Is dasatinib effective for treatment of glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5149b575d24251bc05000047",
+    "question": "Is there a difference in the rate between gene fusion and gene fission?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64178e15690f196b51000020",
+    "question": "Is casimersen effective for the treatment of Duchenne muscular dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-62057b35c9dfcb9c0900002d",
+    "question": "Does atemoya juice inhibit the CYP1A2 enzyme?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4fd4d56d0a277941000034",
+    "question": "Is Impetigo a viral infection that affects the skin?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4d6e446d0a27794100002f",
+    "question": "Is MAGE-A3 immunotherapeutic effective for non-small-cell lung cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6e21b4b750ff445500003a",
+    "question": "Are paralog genes co-regulated?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4b5fd86d0a277941000022",
+    "question": "Does clinical trial data support the use of minocycline for amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6414c5ba690f196b51000007",
+    "question": "Can skin picking phenotype present following methylphenidate treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6d97497c78d69471000040",
+    "question": "Are there graph kernel libraries available implemented in JAVA?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5503121de9bde69634000019",
+    "question": "Is RET the major gene involved in Hirschsprung disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e480909d14c9f295d000003",
+    "question": "Are astronauts in higher risk for developing cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6026754f1cb411341a0000c8",
+    "question": "Should minocycline be used for mild Alzheimer disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60327e541cb411341a00013e",
+    "question": "Is Hunter's disease is associated with the X Chromosome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a9db99ffd02ddc336000001",
+    "question": "Is CXCL7 a chemokine?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c51f44c07ef653866000004",
+    "question": "Are Copy Number Variants (CNVs) depleted in regions of low mappability?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e2db15cfbd6abf43b000014",
+    "question": "Has amantadine ER been approved by the FDA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f37aeac4010b4d7800000c",
+    "question": "Is Cri du Chat syndrome (CdCS) a genetic syndrome caused by deletions in the long arm of chromosome 5\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532f08dcd6d3ac6a3400002a",
+    "question": "Are there any specific antidotes for dabigatran?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64178e34690f196b51000021",
+    "question": "Is viltolarsen effective for the treatment of Duchenne muscular dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56d8b27651531f7e33000003",
+    "question": "Do patients with Pendred syndrome present congenital deafness?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-604906ed1cb411341a000163",
+    "question": "Are mucin overexpression associated with disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cab4c75795f9a73e00001f",
+    "question": "Do U6-associated proteins Lsm4 and Lsm6 interact with SMN?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6060e03394d57fd879000048",
+    "question": "Are synonymous sites in primates and rodents functionally constrained?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c654c14e842deac67000025",
+    "question": "Does lucatumumab bind to CD140?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4b64516d0a277941000029",
+    "question": "Is Semagacestat effective for Alzheimer's Disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f602a3882a024a1000001f",
+    "question": "Is Cabotegravir effective for HIV prevention?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c332a350c68dd41600000d",
+    "question": "Is there a genome-wide technique for the detection of R-loop formation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d38826ea1e1595105000016",
+    "question": "Is SATB1 positioned close to AT-rich sequences?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb4124a43ad31278000017",
+    "question": "Is Tcf3 associated with the Wnt pathway?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5162f5b6298dcd4e5100004c",
+    "question": "Do DNA double-strand breaks play a causal role in carcinogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-620588f9c9dfcb9c09000033",
+    "question": "Can bergapten cause phototoxicity?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6027446d1cb411341a0000dd",
+    "question": "Does trimetazidine protect from myocardial injury after percutaneous coronary intervention?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6278da4456bf9aee6f00000f",
+    "question": "Is thalidomide used as an immunomodulatory drug nowadays?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621b5bcc3a8413c65300003d",
+    "question": "Is Otolin-1 a matrix protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c93e6a1ecadf2e73f00001b",
+    "question": "Does the interaction of MOV10 and RNASEH2 promote L1 retrotransposition?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60206bae1cb411341a00007d",
+    "question": "Is there a role for Dickkopf-1 (DKK1) in prostate cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5896399978275d0c4a00000b",
+    "question": "Is RASA2 involved in melanoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e5aeec0c19e5451d000002",
+    "question": "Are adenylyl cyclases always transmembrane proteins?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ac07b67dd95b2cd42000001",
+    "question": "Is Lysyl oxidase crosslinking collagen?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53175e25b166e2b806000007",
+    "question": "Is CHEK2 involved in cell cycle control?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c890c3375a4a5d21900000e",
+    "question": "Can oleuropein aglycone interfere with amyloid aggregation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e05a7b51531f7e3300000d",
+    "question": "Does PU.1 (SPI1) affect NF-kB binding?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e480ccfd14c9f295d000005",
+    "question": "Is g-H2AX a marker for double strand breaks?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d384ce87bc3fee31f000013",
+    "question": "Does GRHL2 over-expression lead to EMT?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58cdb80302b8c60953000043",
+    "question": "Is Doxorubicin cardiotoxic?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e7f69d2835f4e4777000021",
+    "question": "Has ZP-PTH been tested in a phase II clinical trial?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c640fa1e842deac67000011",
+    "question": "Is TIAM1 favoring tumor progression in colorectal cancer (CRC)?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f7cb37882a024a10000029",
+    "question": "Is rilonacept effective for pericarditis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51487821d24251bc0500002f",
+    "question": "Is Mammaprint approved by the United States Food and Drug Administration?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d131451930410b13000034",
+    "question": "Is GC1118 effective for glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f02e1bf36125a426000016",
+    "question": "Was AAVS3 developed for hemophilia A?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f9cd2f33942b094c000011",
+    "question": "Does microexon alternative splicing of small GTPase regulators have implication in central nervous system diseases?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c1f002ef6e394741000038",
+    "question": "Is lenvatinib effective for thyroid cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53177803b166e2b80600000e",
+    "question": "Is there evidence for somatic mosaicism in Tuberous Sclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52fc94572059c6d71c000070",
+    "question": "Is apixaban effective for treatment of acute venous thromboembolism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5319a7b2b166e2b806000028",
+    "question": "Is there any cross-talk between the Wnt and the Akt pathways?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6033f5541cb411341a00014c",
+    "question": "Is phosphoenolpyruvate carboxykinase 1 (PCK1) the rate-limiting enzyme in gluconeogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553a54babc4f83e828000019",
+    "question": "Are there Conserved Noncoding Elements (CNEs) in plant genomes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550bf315c2af5d5b7000000e",
+    "question": "Is cystatin C or cystatin 3 used as a biomarker of kidney function?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64299b6a57b1c7a315000001",
+    "question": "Is COVID-19 caused by the Omicron variant less severe than infection caused by other variants?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e186fd6fddd3e83e00000f",
+    "question": "Does the word ovine refers to goats?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5175b97a8ed59a060a00002f",
+    "question": "Is alternative splicing of apoptotic genes playing a role in the response to DNA or mitochondrial damage?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c8c05c70101eac870000001",
+    "question": "Is lactotransferrin a tumour suppressor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4c06d96d0a27794100002e",
+    "question": "Can Systemic Lupus Erythematosus cause seizures?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6060e1a094d57fd879000049",
+    "question": "Does IL18 signaling have a role in thymus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64040bd8201352f04a00000e",
+    "question": "Should be used bexarotene for relapsing-remitting multiple sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-641365f6201352f04a00003a",
+    "question": "Is Iron deficiency anemia a common complication of chronic kidney disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a774ce1faa1ab7d2e000006",
+    "question": "Is there increased recombination rate in human regulatory domains?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a75fec383b0d9ea6600000b",
+    "question": "Can the CEP290 gene mutations be targeted by AAV-mediated gene therapy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e36d807b5b409ea5300000a",
+    "question": "Does the Mcm2-Ctf4-Polα axis play a role in transfer of histones to leading strand DNA at the replication forks?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e447f2448dab47f26000013",
+    "question": "Are there lncRNAs that control the extent of neuronal outgrowth?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5328185dd6d3ac6a3400000e",
+    "question": "Is metabolic syndrome related with cardiovascular disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53319653d6d3ac6a3400003e",
+    "question": "Does prudent diet reduce cardiovascular risk?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c73acf27c78d6947100008a",
+    "question": "Is Semagacestat effective for treatment of Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58df779d6fddd3e83e000001",
+    "question": "Is Musclin a secretory peptide?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a70de5199e2c3af26000005",
+    "question": "Is scuba diving safe during pregnancy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6b198f7c78d69471000025",
+    "question": "Is there a deep-learning algorithm for protein solubility prediction?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f59592882a024a10000010",
+    "question": "Is Sotrovimab effective for COVID-19?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cefaaad0bf1360c00000f",
+    "question": "Is there an association between bruxism and reflux?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e9eba150d431b5f73000005",
+    "question": "Do nematodes contain a CTCF gene?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5547d72ef35db75526000008",
+    "question": "Do all archaea possess multiple origins of DNA replication?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ec72a4eda5a5767200000f",
+    "question": "Is tirilazad effective for treatment of aneurysmal subarachnoid haemorrhage?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52cae04c03868f1b06000024",
+    "question": "Does molindone affect body weight?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6410f839201352f04a000032",
+    "question": "Can the concept of digital twins be applied in Precision Nutrition?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3d8edf48dab47f26000003",
+    "question": "Autophagy is the process where a virus obtains nutrients from it's host, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-605b9c2a94d57fd879000035",
+    "question": "Does Amblyopia affect the eye?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58db9aa28acda34529000018",
+    "question": "Does PCSK9 (Proprotein convertase subtilisin/kexin type 9) binds with HDL-receptor (HDL-R)?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d8d4d1014675820d000006",
+    "question": "Do Parkinson's disease patients experience stridor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f9cb19c9dfcb9c09000002",
+    "question": "Is Adamts18 deficiency associated with cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6438a5e842deac67000016",
+    "question": "Are recessive coding variants responsible for the majority of undiagnosed nonconsanguineous individuals?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a9d9ab94e03427e73000003",
+    "question": "Is Cystatin D a biomarker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58cd6d9702b8c6095300003c",
+    "question": "Do normal cells express the protein TERT?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65cf96ce1930410b1300000a",
+    "question": "Is Amivantamab used for non–small-cell lung cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-552440452c8b63434a00000b",
+    "question": "Are ACTA1 (alpha actin) and NEB (nebulin) genes related to nemaline myopathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a1da4e78275d0c4a000059",
+    "question": "Has small pox been eradicated from the world?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b06a68f828ad283c000005",
+    "question": "Is Tuberous Sclerosis a genetic disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5171833c8ed59a060a00000f",
+    "question": "Are chromomethylases present in animal genomes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a76056983b0d9ea66000012",
+    "question": "Does DDX54 play a role in DNA damage response?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66088ddbfdcbea915f00000d",
+    "question": "Are senolytics used to treat cardiovascular disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5abc974bfcf456587200001f",
+    "question": "Is recursive splicing more common in short introns?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a76016683b0d9ea6600000d",
+    "question": "Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f86a90c4010b4d78000057",
+    "question": "Is there an approved vaccine against Helicobacter pylori?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64281a47690f196b5100004f",
+    "question": "Is OXLUMO (lumasiran) used for the treatment of primary hyperoxaluria?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5505ad7ff73303d458000007",
+    "question": "Does the protein mTOR regulate autophagy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54f42f2764850a5854000005",
+    "question": "Are the Fanconi anemia genes a part of the same signalling pathway?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51490275d24251bc0500003d",
+    "question": "Is nimodipine recommended for prevention of vasospasm in aneurysmal subarachnoid hemorrhage patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f70d71c4010b4d7800001e",
+    "question": "Is COACH syndrome a rare autosomal recessive genetic disease characterized by liver fibrosis and related to portal hypertension.\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c010e09133db5eb78000024",
+    "question": "Can simvastatin alleviate depressive symptoms?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cae40b5795f9a73e000022",
+    "question": "Is Crohn's disease (CD) linked to the consumption of refrigerated food?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-554614bcd355485447000004",
+    "question": "Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601d73ee1cb411341a00003f",
+    "question": "Is carpal tunnel syndrome a type of nerve entrapment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5be44bef133db5eb78000014",
+    "question": "Are there microbes in human breast milk?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c9f0dabecadf2e73f00003b",
+    "question": "Is TNF-α an activator of pancreatic stellate cells?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e2dbd0afbd6abf43b000017",
+    "question": "Is pimavanserin a typical antipsychotic?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-62015485c9dfcb9c09000023",
+    "question": "Do SETD1A mutations predispose to schizophrenia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6057014c94d57fd879000022",
+    "question": "Is the Apis mellifera genome available?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6414c124690f196b51000002",
+    "question": "Is trichotillomania encountered with equali frequency in males and females?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ab9032afcf4565872000018",
+    "question": "Does oncogene-induced DNA replication stress inhibit genomic instability?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a67a550b750ff4455000009",
+    "question": "Is there an association between carcinoid syndrome and mitral valve disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6028ffae1cb411341a000106",
+    "question": "Does erenumab target the calcitonin gene-related peptide?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5894597e7d9090f353000004",
+    "question": "Is Annexin V an apoptotic marker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c85f675795f9a73e000013",
+    "question": "Are there interactomes available for POU5F1 and SOX2?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51bedaac3148fdcc22da7188",
+    "question": "Is macroautophagy a selective degradation process?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b2ec744003448f55000001",
+    "question": "Can Levoxyl (levothyroxine sodium) cause insomnia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51593dc8d24251bc05000099",
+    "question": "Proteomic analyses need prior knowledge of the organism complete genome. Is the complete genome of the bacteria of the genus Arthrobacter available?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58b5320e22d3005309000002",
+    "question": "Is ocular melanosis a risk factor for uveal melanoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550ae16bc2af5d5b70000009",
+    "question": "Is protein Fbw7 a SCF type of E3 ubiquitin ligase?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-533d0f44c45e13371400000e",
+    "question": "Is signal transducer and activator of transcription-3 (STAT3) critical for tumor angiogenesis progression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a7d50d0faa1ab7d2e000016",
+    "question": "Is ACI-35 a passive vaccine?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e821ac5835f4e4777000031",
+    "question": "Is endotrophin derived from collagen?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54e12c30ae9738404b000005",
+    "question": "Is COL5A2 gene associated to ischemic heart disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-588fbedced9bbee70d000007",
+    "question": "Is there any involvement of the long non-coding RNA Gomafu in schizophrenia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64041f38201352f04a00001f",
+    "question": "Is tebentafusp effective for uveal melanoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e29f959aa19d74431000004",
+    "question": "Can LB-100 sensitize ovarian carcinoma to cisplatin?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a6d89660087bc10a00002b",
+    "question": "Could plasmepsins be used as targets for developing anti-malaria drugs?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6404199d201352f04a000019",
+    "question": "Is ocrelizumab effective for primary progressive multiple sclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5314896adae131f847000001",
+    "question": "Is corpus callosum involved in the Mowat–Wilson syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c65484ee842deac6700001f",
+    "question": "Can mogamulizumab be used for the treatment of cutaneous T-cell lymphoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3a6c49b5b409ea53000017",
+    "question": "Is Verubecestat effective for Alzheimer's Disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532aad53d6d3ac6a34000010",
+    "question": "Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56ae67a40a360a5e4500000c",
+    "question": "Is there any link between the aurora B kinase and the polycomb protein ring1B?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58b9585c22d3005309000010",
+    "question": "Could hypophosphatemic rickets cause craniosynostosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e2422c6fddd3e83e000011",
+    "question": "Have studies shown that there is no link between DNA methylation patterns and Post Traumatic Stress Disorder?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c1f00aef6e39474100003d",
+    "question": "Is selumetinib effective in thyroid cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53552ed7f1005d6b58000001",
+    "question": "Have mutations in the ZEB2 gene been found in any human syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bb6b0eac7ad1001900000e",
+    "question": "Is flibanserin effetive for Hypoactive Sexual Desire Disorder? \nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532673c4d6d3ac6a34000009",
+    "question": "Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb4311a43ad31278000028",
+    "question": "Are enhancers directional in their targeting of gene promoters?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-513596225274a5fb0700000d",
+    "question": "Are nucleosomes positioned at DNA replication origins?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51542e84d24251bc05000083",
+    "question": "Is imatinib an antidepressant drug?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56d1accb67f0cb3d66000001",
+    "question": "Are Drosophila ultraconserved elements candidate ncRNAs?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5139ec51bee46bd34c000006",
+    "question": "Do Conserved noncoding elements act as enhancers?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660d6a97fdcbea915f00003c",
+    "question": "Without immunization, rabies is a lethal disease.\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c76cea17c78d694710000a7",
+    "question": "Is ADP-ribosylation a PTM?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c674aed7c78d69471000019",
+    "question": "Do raspberries improve postprandial glucose and acute and chronic inflammation in adults with type 2 Diabetes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51542eacd24251bc05000084",
+    "question": "Does HER2 under-expression lead to favorable response to trastuzumab?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d901ec4b1fd0d33c000006",
+    "question": "Does nimotuzumab improve survival of glioblastoma patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5316d4fcb166e2b806000005",
+    "question": "Is invasion and metastasis one of the hallmarks of cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660999bffdcbea915f00001b",
+    "question": "Is treatment with acetyl salicylic acid indicated to prevent colorectal adenomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b9c937ac7ad10019000001",
+    "question": "Does Rad9 interact with Aft1 in S.cerevisiae?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c73ad0b7c78d69471000093",
+    "question": "Does simvastatin improve outcomes of aneurysmal subarachnoid hemorrhage?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52df887498d023950500000c",
+    "question": "Is oxalate renal excretion increased after bariatric surgery?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f02a82f36125a426000013",
+    "question": "Does CIDEB mutation protect from liver disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a468785966455904c00000d",
+    "question": "Does RNA polymerase II have RNA cleavage activity?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6f829eb750ff4455000054",
+    "question": "Can multiple myeloma patients develop hyperviscosity syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4b5f566d0a277941000020",
+    "question": "Is celecoxib effective for amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65ce88b71930410b13000001",
+    "question": "Is Lecanemab approved for Alzheimer’s Disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-511a16f9df1ebcce7d000005",
+    "question": "Are there any DNMT3 proteins present in plants?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602c26171cb411341a000122",
+    "question": "Is AZD9668 a VEGF mRNA drug?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e476b99d14c9f295d000001",
+    "question": "Is golimumab effective for sarcoidosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb42b7a43ad31278000025",
+    "question": "Are super enhancers structurally insulated in chromatin loops?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d36b4817bc3fee31f000007",
+    "question": "Is SATB1 necessary for T-cell maturation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-550e7d6aa103b7801600000e",
+    "question": "Does smoking increase risk for glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-663020d7187cba990d00002b",
+    "question": "Is there an association between specific genotypes and the risk of ADHD for Duchenne Muscular Dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f8a7eb2059c6d71c000052",
+    "question": "Is there an association between bruxism and reflux\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d35c227b3a6380763000007",
+    "question": "Is SATB1 expressed in thymocytes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-552fa6f5bc4f83e828000002",
+    "question": "Is peripheral neuroepithelioma related to Ewing sarcoma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b2f3b74003448f5500000c",
+    "question": "Is there a relationship between junctin and ryanodine receptors?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c783236d774d04240000001",
+    "question": "Is collagen the most abundant human protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f84c78c4010b4d78000049",
+    "question": "Is bowel transplantation commonly performed in patients with severe gastrointestinal disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c674eac7c78d6947100001b",
+    "question": "Has Hesperidin any role as a Neuroprotective Agent?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51682382298dcd4e51000066",
+    "question": "Does triiodothyronine play a regulatory role in insulin secretion from pancreas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621bd38d3a8413c653000046",
+    "question": "Is esophageal adenocarcinoma associated with aberrant glycosylation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60354a7b1cb411341a000154",
+    "question": "Do honey contain diastases/amylases?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c52028807ef653866000009",
+    "question": "Can mitochondria be inherited by both parents in humans?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f778dbc4010b4d78000035",
+    "question": "Is watch-and-wait policy after neoadjuvant therapy a cost-effective policy for locally advanced rectal cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56ebfac12ac5ed1459000001",
+    "question": "Does the 3D structure of  the genome remain stable during cell differentiation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5717fb557de986d80d000009",
+    "question": "Is the SDHAF2 gene  encoding a protein necessary for flavination of SDHA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-551910c5622b194345000007",
+    "question": "Are EDNRB mutations involved in the development of Hirschsprung disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a735c143b9d13c708000003",
+    "question": "Is patisiran currently (November 2017) in clinical phase II trials?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bf7d90ef6e394741000015",
+    "question": "Is the circadian clock involved in ribosome biogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61faa3bac9dfcb9c0900000b",
+    "question": "Was ALVAC-HIV effective for HIV prevention in the HVTN 702 trial?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5133b15e5274a5fb0700000b",
+    "question": "Are CpG islands located close to housekeeping genes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531481ade3eabad021000016",
+    "question": "Can adult humans be induced to produce fetal hemoglobin?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c73acf17c78d69471000089",
+    "question": "Is eculizumab used for treatment of myasthenia gravis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5b2f4b1a4c55d80b000001",
+    "question": "Is Adar3 involved in learning and memory?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661d1c3ceac11fad33000012",
+    "question": "Are there any molecular signatures identified for the differentiation between bacterial and viral infections?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54dcd8f61388e8454a000001",
+    "question": "Are Alu elements transcribed?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f93c38882a024a1000004b",
+    "question": "Can Isradipine slow progression of Early Parkinson Disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a9acba61d1251d03b000014",
+    "question": "Has intepirdine been evaluated in clinical trials? (November 2017)\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d3715b1930410b13000046",
+    "question": "Is Durvalumab effective for locally advanced cervical cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621d19cc3a8413c65300004a",
+    "question": "Is cytokeratin a tumor marker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a893da7bc7bade53a000001",
+    "question": "Is CREB a key memory protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e44bdba48dab47f2600001c",
+    "question": "Is Selumetinib effective for low-grade glioma?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5718a69e7de986d80d00000a",
+    "question": "Is Alpers disease inherited in an autosomal recessive mode?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54ede5c394afd61504000006",
+    "question": "Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58bbb77e22d3005309000017",
+    "question": "Is pseudouridine a RNA modification?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-643c396457b1c7a31500002d",
+    "question": "Are any medications available to prevent COVID-19 following exposure?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b2f0d84003448f55000009",
+    "question": "Is the Snord116 cluster associated with the Prader-Willi syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a74a4be0384be9551000004",
+    "question": "Are there RNAi approaches considered for the treatment of kidney injury?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5311cdcce3eabad021000007",
+    "question": "Is there any software for automated analysis of FISH images?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e2dad57fbd6abf43b000010",
+    "question": "Is amantadine ER the first approved treatment for akinesia?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-514b335dd24251bc05000061",
+    "question": "Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60292e1b1cb411341a000111",
+    "question": "Does Curare function by stimulating the acetylcholine receptor?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5509df4ac2af5d5b70000003",
+    "question": "Is amiodarone a class I anti-arrhythmic drug?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6250a545e764a53204000012",
+    "question": "Is EuroQol 5-Dimension Health Assessment (EQ-5D) [a widely used, simple instrument that monitors the general health-related quality of life (HRQoL) in chronic disease] a 5 question assessment?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5b52731a4c55d80b000003",
+    "question": "Is deletion at 6q24.2-26 associated with longer survival of patients with high-grade serous ovarian carcinoma (HGSOCs)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6436953757b1c7a315000028",
+    "question": "Is Functional Neurological Disorder (FND) classified as a psychosomatic disorder?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a3566bb966455904c000003",
+    "question": "Does TFIIS affect nucleosome positioning?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e64ed381af46fc130000015",
+    "question": "Are ICAMS, Intracellular Adhesion Molecules, part of the immunoglobulin superfamily?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-603bc16b1cb411341a000158",
+    "question": "Is erabutoxin b usually found in plants?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c71648b7c78d69471000067",
+    "question": "Can Diazepam be beneficial  in the treatment of  traumatic brain injury?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e33916afbd6abf43b000061",
+    "question": "Does radiotherapy for prostate cancer increase bladder cancer risk?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-514cc8dcd24251bc05000066",
+    "question": "Is depression associated with poor prognosis of brain tumor patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55425615ed966d112c000003",
+    "question": "Are genes symmetrically distributed between leading and lagging DNA strand in bacteria?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5cb38a56ecadf2e73f00005e",
+    "question": "Is myc a tumour suppressor gene?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6201a4edc9dfcb9c09000028",
+    "question": "Is HDAC1 required for GATA-1 transcriptional activity?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53443b13aeec6fbd0700000e",
+    "question": "Can a peptide aptamer be used as protein inhibitor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66214cc6b9f8b89d7e000003",
+    "question": "Is fish intake a protective factor against colorectal cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fe31304a43ad3127800003a",
+    "question": "Is methotrexate used for the treatment of Rheumatoid Arthritis (RA)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a772e9dfaa1ab7d2e000001",
+    "question": "Was saracatinib being considered as a treatment for Alzheimer's disease in November 2017?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-551c4ffc6b348bb82c000010",
+    "question": "Is TNNI3K a cardiac-specific protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5512cce26a8cde6b7200000c",
+    "question": "Is protein M3/6 a dual specificity phosphatase?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f118aa2059c6d71c000003",
+    "question": "Are defects in recombination repair involved in carcinogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f1dadac4010b4d78000007",
+    "question": "Can Antioxidant curcumin kill tumor cells?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553c011af321868558000009",
+    "question": "Is Lysine-specific demethylase 1 (LSD1) a critical regulator of hematopoiesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-603bc2b61cb411341a00015b",
+    "question": "Is autism thought to be related to the  Arginine Vasopressin Peptide (AVP)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e33904afbd6abf43b00005f",
+    "question": "Does radiotherapy for Hodgkin disease increases risk for lung cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a9ac4161d1251d03b000010",
+    "question": "Does MC1R palmitoylation reduce pigmentation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f9cdcc33942b094c000013",
+    "question": "Does silencing of SRRM4 inhibit tumor growth across cancers?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c1f029ef6e39474100004a",
+    "question": "Is valproic acid effective for glioblastoma treatment?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-640e2616201352f04a00002a",
+    "question": "Is medical hydrology the same as Spa therapy?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64178e4b690f196b51000022",
+    "question": "Is golodirsen effective for the treatment of Duchenne muscular dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d132101930410b13000035",
+    "question": "Is Depatuxizumab mafodotin effective for glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-517a8a718ed59a060a00003e",
+    "question": "Does triiodothyronine stimulate red blood cell sodium potassium pump?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e323780fbd6abf43b000055",
+    "question": "Is there an increased risk of meningiomas in atomic bomb survivors?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e540ed36d0a277941000054",
+    "question": "Does saracatinib promote oncogenesis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6402c910201352f04a00000c",
+    "question": "Can losartan reduce brain atrophy in Alzheimer's disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56a292ae496b62f23f000001",
+    "question": "Are shadow enhancers associated with development?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c9f7bb6ecadf2e73f00003e",
+    "question": "Can therapeutic levels of  Vedolizumab be found in the breast milk of nursing mothers following treatment for Inflammatory bowel disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a87efa961bb38fb2400000e",
+    "question": "Are mutations in the nf1 gene associated with memory?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e11bf76fddd3e83e00000c",
+    "question": "Are mutations in the C9orf72  gene associated with macular degeneration?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf4c54a5037880c000002",
+    "question": "Are high-flow nasal cannulae effective for treatment of preterm infants?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e68967edfc094c1f000002",
+    "question": "Is protein CXCR4 used as a prognostic marker of cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cefaaad0bf1360c000005",
+    "question": "Is apixaban effective for treatment of acute venous thromboembolism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65cfd68a1930410b13000021",
+    "question": "Is sectoral Heterochromia associated with Crohn's disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532bf822d6d3ac6a34000016",
+    "question": "Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-622b95dc3a8413c653000092",
+    "question": "Is retinol binding protein 4 an adipokine?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c8972d4d558e5f232000006",
+    "question": "Has strimvelis been approved by the European Medicines Agency?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6020ad161cb411341a000082",
+    "question": "Is liraglutide effective for weight reduction?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-515def40298dcd4e51000028",
+    "question": "Is Vitamin D deficiency in pregnant women associated with gestational diabetes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f77f892059c6d71c00002c",
+    "question": "Is stop codon bypass possible?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56cdf3995795f9a73e00003a",
+    "question": "Is STAT3 involved in EIF2AK2-dependent suppression of autophagy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3ebaa348dab47f2600000a",
+    "question": "Is the FIP virus thought to be a mutated strain for the Feline enteric Coronavirus?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54cf449cf693c3b16b000009",
+    "question": "Is it possible to visualize subtahalamic nucleus by using transcranial ultrasound?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b39f148525abca1e000004",
+    "question": "Is the Dictyostelium discoideum proteome known?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c0708eef6e39474100001f",
+    "question": "Is the abnormal dosage of ultraconserved elements disfavored in cancer cells?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-515d9e5c298dcd4e5100000e",
+    "question": "Are there randomised controlled trials on sevoflurane?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6217dc173a8413c65300002b",
+    "question": "Do we find bacteriophages in the gut?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-517395b98ed59a060a00001a",
+    "question": "Are transcription and splicing connected?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-533eb89fc45e133714000012",
+    "question": "Does the concentration of protein HIF-1α increase after the administration of the cytoprotective prodrug\"amifostine\" (ethyol) ?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ad240f70340b9f058000015",
+    "question": "Is human lysyl oxidase-like 2 a glycoprotein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d1350f1930410b13000038",
+    "question": "Can Rozanolixizumab be used for treatment of multiple sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-644efd5157b1c7a315000086",
+    "question": "Are epigenetic changes heritable?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-535d292a9a4572de6f000003",
+    "question": "Are long non coding RNAs spliced?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60570fe494d57fd879000026",
+    "question": "Is hemoglobin antimicrobial?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6217dc9d3a8413c65300002d",
+    "question": "Is NfL (neurofilament light chain) a biomarker of neurodegeneration?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bb154aac7ad10019000003",
+    "question": "Do orphan and gene related CpG islands follow power-law-like distributions?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63f02b50f36125a426000014",
+    "question": "Is there any association between Tripe palms and cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54cf48acf693c3b16b00000b",
+    "question": "Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5162e011298dcd4e51000049",
+    "question": "Are there any desmins present in plants?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-661c414d48a2c27714000007",
+    "question": "Can enhancers act as promoters?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6211566a3a8413c653000010",
+    "question": "Has CPX-351 been approved by the FDA and the EMA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601cb7a61cb411341a000026",
+    "question": "Can Panitumumab cause trichomegaly?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63eef9b6f36125a426000011",
+    "question": "Is Prasinezumab effective for Parkinson’s Disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6056fbfc94d57fd87900001d",
+    "question": "Does the royal jelly contain proteins?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52b2f09f4003448f55000008",
+    "question": "Is triadin involved in cardiac function?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e2985951531f7e33000013",
+    "question": "Do R-loops tend to form at sites of DNA replication?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5501b3b3e9bde69634000007",
+    "question": "Is phospholamban a regulatory/inhibitory protein of the Ca ATPase SERCA?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6616a122fdcbea915f000058",
+    "question": "Has statin use been associated with a higher risk of dementia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-66099af7fdcbea915f000020",
+    "question": "Is the use of Bevacizumab indicated after progression to a previous regimen with Bevacizumab in advanced colorectal cancer patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c8ab614d558e5f23200000d",
+    "question": "Is the protein Asporin related to disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f490fac4010b4d78000010",
+    "question": "Has MDMA(ecstasy) been successfully used to treat PTSD disorder?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-553d02c1f321868558000012",
+    "question": "Are conserved noncoding elements associated with developmental genes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5ad35933133db5eb78000001",
+    "question": "Is the protein pelota a ribosomal rescue factor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e5b445edfc094c1f000001",
+    "question": "Is the protein β1-integrin recycled?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5344310baeec6fbd0700000c",
+    "question": "Does the CTCF protein co-localize with cohesin?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a341a660087bc10a000017",
+    "question": "Is the toxin produced by Clostridium botulinum always deadly?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5157fce5d24251bc0500008c",
+    "question": "Is it feasible to determine the complete proteome of yeast?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571f59cd0fd6f91b68000008",
+    "question": "Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barré?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bb69d0ac7ad1001900000c",
+    "question": "Is amoxicillin used for treatment of malnutrition in children?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a737e233b9d13c70800000d",
+    "question": "Does Enzastaurin improve survival of glioblastoma patients?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6276d2d956bf9aee6f000002",
+    "question": "Do angiotensin-converting-enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) increase the likelihood of severe COVID-19?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f7d2a5882a024a10000032",
+    "question": "Is Belimumab used for lupus nephritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e47656935b8f0833c000004",
+    "question": "Is indinavir effective for treatment of amyotrophic lateral sclerosis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-533e50fdc45e13371400000f",
+    "question": "Do thyroid hormone receptors change after brain injury?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65cfe0381930410b13000029",
+    "question": "Can tacrolimus increase risk of Posterior Reversible Encephalopathy Syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6e49a4b750ff445500004b",
+    "question": "Is LDB1-mediated enhancer looping dependent on cohesin?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5316111fb166e2b806000001",
+    "question": "Is oxidative stress affected by FOXO expression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a992d981d1251d03b00000b",
+    "question": "Can nanoparticles be used for afterglow imaging?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6402c3fd201352f04a000009",
+    "question": "Was prehospital transdermal glyceryl trinitrate effective for stroke in the RIGHT-2 trial?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6428d7da690f196b51000050",
+    "question": "Can untranslated regions (UTRs) regulate gene expression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e49c5336d0a277941000011",
+    "question": "Is overexpression of LY6K associated with better prognosis for non-small cell lung cancer patients?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d387721a1e159510500000c",
+    "question": "Is induction of interferon by TLR7 higher in males?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a71bb960087bc10a00002d",
+    "question": "Are Ultra-conserved elements (UCEs) enriched in segmental duplications?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-606a232a94d57fd87900004c",
+    "question": "Is metoprolol metabolized by CYP2D6?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c7a4c35d774d04240000007",
+    "question": "Is TIM-3 a target for cancer immunotherapy in NSCLC?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f939a5882a024a1000004a",
+    "question": "Is tivantinib effective for MET-high hepatocellular carcinoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56d2ee61f22319765a000007",
+    "question": "Are messenger RNA molecules epigenetically methylated?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-57136cbf1174fb1755000007",
+    "question": "Can fetal aneuploidy be detected with non-invasive prenatal testing?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e94902f2d3121100d000012",
+    "question": "Is aggrephagy a variant of autophagy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58a8962338c171fb5b000007",
+    "question": "Is synapsin a phosphoprotein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5fdb2ee4a43ad3127800000f",
+    "question": "Are somatic mutations positioned towards the nuclear periphery?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5f2cef1a4c55d80b000022",
+    "question": "There is no drug available to prevent HIV infection, Pre-exposure prophylaxis (PrEP), yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601ecab41cb411341a000065",
+    "question": "Is adenosine signaling prognostic for cancer outcome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65f77701c4010b4d78000030",
+    "question": "Are FOLFIRINOX plus Bevacizumab the preferred therapy for left-sided RAS wild type advanced colorectal cancer with aggressive clinical presentation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5176c6d08ed59a060a000032",
+    "question": "Have mutations in the Polycomb group been found in human diseases?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-55032179e9bde6963400002e",
+    "question": "Are BBS mutations involved in syndromic Hirschsprung disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54d8f37b4b1fd0d33c000004",
+    "question": "Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531b4269b166e2b80600003e",
+    "question": "Is thyroid hormone therapy indicated in patients with heart failure?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cefaaad0bf1360c000001",
+    "question": "Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3ab58db5b409ea5300001c",
+    "question": "The LINCS L1000 data set contains gene expression data for drug treated human cells, yes or no?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5895d0457d9090f35300000d",
+    "question": "Is avanafil indicated for treatment of erectile dysfunction?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-64178e73690f196b51000023",
+    "question": "Is eteplirsen effective for the treatment of Duchenne muscular dystrophy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621ed10f3a8413c653000062",
+    "question": "Are Tregs CD4(+)CD25(+) regulatory T cells a positive regulator of the immune response?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-516c220e298dcd4e51000071",
+    "question": "Does cucumber lower blood sugar in diabetics?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b8a222156496395c000001",
+    "question": "Are conserved noncoding elements associated with the evolution of animal body plans?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bb1b4eac7ad10019000004",
+    "question": "Could the Menzerath-Altmann law be proved mathematically trivial in genomes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56b0eb3b0a360a5e45000019",
+    "question": "Is curcumin a phytochemical?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58ce5a1602b8c60953000049",
+    "question": "Is ABCE1 involved in ribosomal recycling?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571f33f10fd6f91b68000004",
+    "question": "Have 5q35 microdeletions been implicated in Sotos syndrome development?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60570af094d57fd879000025",
+    "question": "Has the olive tree pollen proteome been studied?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a68eabab750ff4455000015",
+    "question": "Is there an association between Klinefelter syndrome and breast cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6630254b187cba990d000032",
+    "question": "Is DNA methylation always associated with gene silencing?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-620157bec9dfcb9c09000025",
+    "question": "Is there any role of the 'Greek islands' in olfactory receptor choice?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531d34be267d7dd053000004",
+    "question": "Has the presence of delayed enhancement been documented in athletes performing strenuous exercise?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d35b9ecb3a6380763000004",
+    "question": "Does deletion of cohesin change gene expression?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58cbb55402b8c60953000033",
+    "question": "Does oculocutaneous albinism show an autosomal recessive inheritance?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f7d4da882a024a10000033",
+    "question": "Is there an association between Guillain–Barré syndrome and covid vaccine?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602596691cb411341a0000ad",
+    "question": "Is tofacitinib a JAK inhibitor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-62121c583a8413c653000016",
+    "question": "Is MEDI2228 a bispecific antibody?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c5a7605795f9a73e000002",
+    "question": "Does HuR protein regulate the splicing process?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601ec5661cb411341a000063",
+    "question": "Is SLIC-CAGE used for quantification of translation?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a733d2a2dc08e987e000015",
+    "question": "Is Tocilizumab effective for Giant-Cell Arteritis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-602599251cb411341a0000b1",
+    "question": "Does the use of bDMARDs during pregnancy impact neonatal development?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54cf4a0ef693c3b16b00000c",
+    "question": "Is pregabalin effective for treatment of patients with restless leg syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58d8d0cc8acda34529000008",
+    "question": "Can methylenetetrahydrofolate reductase (MTHFR) gene mutations cause homocystinuria?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6025e2641cb411341a0000bb",
+    "question": "Can thiotepa be recommended for treatment of osteosarcoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e120036fddd3e83e00000d",
+    "question": "Is Cryptococcus neoformans a frequent cause of isolated skin infections in immunocompromised individuals\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-53329c84d6d3ac6a34000040",
+    "question": "Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e48b9abd14c9f295d000015",
+    "question": "Are multipotent adult progenitor cells effective for treatment of stroke?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e639a8b1af46fc130000011",
+    "question": "Is Li–Fraumeni syndrome a rare, autosomal recessive, hereditary disorder that predisposes carriers to cancer development?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6d186db750ff4455000031",
+    "question": "Is there any role of Dlx1 and Dlx2 transcription factors in cortical interneurons?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5313b049e3eabad021000013",
+    "question": "Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-531d2aa5267d7dd053000003",
+    "question": "Does BNP increase after intensive exercise in athletes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5d38462b7bc3fee31f000012",
+    "question": "Does metformin alleviate atherosclerosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6020a7391cb411341a00007e",
+    "question": "Is Benralizumab effective for Chronic Spontaneous Urticaria?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54f704b630767eb92e000001",
+    "question": "Is muscle lim protein (MLP) involved in cardiomyopathies?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-571696d9cb4ef8864c000009",
+    "question": "Can RNAPolII function as an RNA-dependent RNA-polymerase?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e6f419a12c1fc13b000002",
+    "question": "Is LPS a microbial product?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-603400051cb411341a00014e",
+    "question": "Is histone variant H3.3K27M associated with gliomas?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56bc8d65ac7ad1001900001a",
+    "question": "Are reduced-nicotine cigarettes effective for smoking cessation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f896ae2059c6d71c000045",
+    "question": "Is pesticide exposure associated with polyneuropathy?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a6f77d7b750ff4455000051",
+    "question": "Is autosomal dominant inheritanced form of Osteogenesis imperfecta caused by mutations in the genes associated with collagen production?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5721f6f90fd6f91b68000012",
+    "question": "Are seizures among the neurological symptoms of incontinentia pigmenti?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a7340962dc08e987e000017",
+    "question": "Is Apremilast effective for Behcet’s syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e4af1d86d0a277941000018",
+    "question": "Does metformin has as an antitumor effect?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621ebec63a8413c65300005d",
+    "question": "Is Epistaxis associated with dental implant placement?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-511a4ec01159fa8212000004",
+    "question": "Is miR-21 related to carcinogenesis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-624f2355e764a5320400000b",
+    "question": "Is the 22-item sino-nasal outcome test (SNOT-22) a widely used measure for Health-Related Quality-of-Life (HRQOL) associated with chronic rhinosinusitis (CRS)?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6440084357b1c7a31500003e",
+    "question": "Is omaveloxolone an activator of NFkB?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6582207c78d69471000001",
+    "question": "Is lucatumumab a polyclonal antibody?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5321b4959b2d7acc7e000007",
+    "question": "Is transcapillary  albumin escape altered in diabetic patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5151b8efd24251bc0500007a",
+    "question": "Is physical performance influenced by thyroid hormone metabolism?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6025d88c1cb411341a0000b6",
+    "question": "Is vocimagene amiretrorepvec effective for glioblastoma?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-52f88a972059c6d71c000033",
+    "question": "Can life style changes reduce oxidative stress\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5895ec5e7d9090f353000015",
+    "question": "Is there an association between Muenke Syndrome and FGFR3 gene mutation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e8220e6835f4e4777000032",
+    "question": "Is Protoporphyrinogen oxidase localized to the mitochondrium?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5cb3a2dd99d1e53537000001",
+    "question": "Is CD63 an exosomal marker?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-662fc122187cba990d000012",
+    "question": "Does physical exercise reduce the risk of recurrence from colorectal cancer?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-6025fdf41cb411341a0000c0",
+    "question": "Should nerinetide be used for treatment of ischaemic stroke?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56c71cb65795f9a73e00000b",
+    "question": "Can DNA intercalators function as topoisomerase inhibitors?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-63fa13da201352f04a000001",
+    "question": "Is PRP-40 regulation of microexons a conserved phenomenon?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-621e9aa13a8413c653000053",
+    "question": "Are there roles for cohesin mutations in AML?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a67b48cb750ff4455000010",
+    "question": "SGOT is an abbreviation for an enzyme other wise known as alanine amino transferase, yes or no?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c9e738decadf2e73f000037",
+    "question": "Can mitochondria transfer from cell to cell?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a8a9f18fcd1d6a10c00001a",
+    "question": "Is NEMO a zinc finger protein?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-532bf6f2d6d3ac6a34000015",
+    "question": "Is there any research that relates the function of Notch Signaling with Alzheimer Disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-60290c2b1cb411341a00010a",
+    "question": "Is there high nucleotide diversity in the Drosophila suzukii species?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e35d3c6158f994d3a000003",
+    "question": "Is there a role for MRPL53 in cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a72284b2dc08e987e000001",
+    "question": "Can radius fracture cause carpal tunnel syndrome?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-65d136081930410b1300003a",
+    "question": "Is transdermal glyceryl trinitrate effective for stroke?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-530cf4fe960c95ad0c000009",
+    "question": "Can tetracycline affect tooth formation?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5327139ad6d3ac6a3400000d",
+    "question": "Is the Prostate- Specific Antigen (PSA) test relevant only for prostate cancer?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58f3d85170f9fc6f0f00000f",
+    "question": "Is Downs syndrome associated with decreased risk of leukemia?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5502abd1e9bde69634000008",
+    "question": "Is Calcium/Calmodulin dependent protein kinase II (CaMKII) involved in cardiac arrhythmias and heart failure?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-620c27e93a8413c653000006",
+    "question": "Is METTL1 overexpression associated with better patient survival?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-660c3591fdcbea915f000031",
+    "question": "Do elevated levels of procalcitonin help in diagnosing paediatric sepsis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-601c44ab1cb411341a00001c",
+    "question": "Can radiosurgery be used for the DNET tumors?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5884755ce56acf5176000007",
+    "question": "Can valproic acid prolong survival of glioblastoma patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-62266c353a8413c65300008a",
+    "question": "Can autophagy related lncRNAs be used for colorectal cancer prognosis?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5321bb019b2d7acc7e00000b",
+    "question": "Is low T3 syndrome related with high BNP in cardiac patients?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54f482d264850a5854000009",
+    "question": "Is the Histidine-Rich Calcium Binding protein (HRC) related to arrhythmias and cardiac disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58bc58c302b8c60953000001",
+    "question": "Is Stat4 a transcription factor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-54f4703764850a5854000008",
+    "question": "Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e5508e2b761aafe09000006",
+    "question": "Does ESN364 activate the hypothalamic-pituitary-gonadal axis?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-56e19eba51531f7e33000012",
+    "question": "Is the yeast Μac1 transcription factor induced upon copper deficiency?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-61f58a1a882a024a10000009",
+    "question": "Is Daprodustat effective for anemia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5a9931cd1d1251d03b00000d",
+    "question": "Does SARM1 deletion cause neurodegeneration?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e3c6850b5b409ea5300001f",
+    "question": "Is bortezomib a Proteasome inhibitor?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-58e3d1743e8b6dc87c000001",
+    "question": "Are hepadnaviral minichromosomes free of nucleosomes?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c6d441d7c78d69471000037",
+    "question": "Does Eucommia ulmoides leaf extract ameliorates steatosis/fatty liver induced by high-fat diet?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e46fda33f54159529000012",
+    "question": "Are there interactions between short and long noncoding RNAs?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5e6e2c1e7fc1ee872b000002",
+    "question": "Is MLL3 part of the ASCOM complex?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5892783d49702f2e01000004",
+    "question": "Is Meis1 implicated in microphthalmia?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-51be1750047fa84d1d000005",
+    "question": "Has field-programmable gate array (FPGA) technology been used to solve sequence alignment problems?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c7f806d617e120c34000001",
+    "question": "Are tumour specific antigens originating from known protein coding genes?\nA. yes\nB. no",
+    "gold": "A",
+    "name": "bioasq",
+    "long": false
+  },
+  {
+    "id": "bioasq-5c5839e707647bbc4b00001f",
+    "question": "Is there a link between BCL11B haploinsufficiency and syndromic neurodevelopmental delay?\nA. yes\nB. no",
+    "gold": "B",
+    "name": "bioasq",
+    "long": false
+  }
+]

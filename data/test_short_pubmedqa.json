@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "pubmedqa-20297950",
+    "question": "Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15388567",
+    "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22227642",
+    "question": "Can we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17032327",
+    "question": "Do supervised colorectal trainees differ from consultants in terms of quality of TME surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19398929",
+    "question": "Can the growth rate of a gallbladder polyp predict a neoplastic polyp?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16962519",
+    "question": "Volume change of uterine myomas during pregnancy: do myomas really grow?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9100537",
+    "question": "Can nonproliferative breast disease and proliferative breast disease without atypia be distinguished by fine-needle aspiration cytology?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24516646",
+    "question": "Is the determination of specific IgE against components using ISAC 112 a reproducible technique?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18041059",
+    "question": "Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21645374",
+    "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11481599",
+    "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19482903",
+    "question": "Treadmill testing of children who have spina bifida and are ambulatory: does peak oxygen uptake reflect maximum oxygen uptake?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21848798",
+    "question": "MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26606599",
+    "question": "Do Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22683044",
+    "question": "Does open access publishing increase the impact of scientific articles?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14968373",
+    "question": "Can CT predict the level of CSF block in tuberculous hydrocephalus?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25488308",
+    "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18708308",
+    "question": "Can surgeon familiarization with current evidence lead to a change in practice?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25371231",
+    "question": "Is vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9582182",
+    "question": "Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14627582",
+    "question": "Double reading of barium enemas: is it necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23361217",
+    "question": "Does the type of tibial component affect mechanical alignment in unicompartmental knee replacement?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27050489",
+    "question": "The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22668712",
+    "question": "Internal derangement of the temporomandibular joint: is there still a place for ultrasound?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27394685",
+    "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22117569",
+    "question": "Is an advance care planning model feasible in community palliative care?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21789019",
+    "question": "Do elderly cancer patients have different care needs compared with younger ones?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19106867",
+    "question": "The Main Gate Syndrome: a new format in mass-casualty victim \"surge\" management?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15151701",
+    "question": "Profiling quality of care: Is there a role for peer review?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24625433",
+    "question": "Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22617083",
+    "question": "Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20121683",
+    "question": "Are patients willing participants in the new wave of community-based medical education in regional and rural Australia?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15095519",
+    "question": "Are patients with diabetes receiving the same message from dietitians and nurses?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16713745",
+    "question": "Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22237146",
+    "question": "Can serum be used for analyzing the EGFR mutation status in patients with advanced non-small cell lung cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24318956",
+    "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12419743",
+    "question": "Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic breast cancer patients as effective as combination chemotherapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17306983",
+    "question": "Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10966943",
+    "question": "Amblyopia: is visual loss permanent?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21228436",
+    "question": "Can teaching medical students to investigate medication errors change their attitudes towards patient safety?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8199520",
+    "question": "Are physicians meeting the needs of family caregivers of the frail elderly?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17208539",
+    "question": "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25043083",
+    "question": "Are failures of anterior cruciate ligament reconstruction associated with steep posterior tibial slopes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26561905",
+    "question": "Do teleoncology models of care enable safe delivery of chemotherapy in rural towns?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23690198",
+    "question": "Implementation of epidural analgesia for labor: is the standard of effective analgesia reachable in all women?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18322741",
+    "question": "Does laparoscopic surgery decrease the risk of atrial fibrillation after foregut surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14551704",
+    "question": "Can communication with terminally ill patients be taught?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-29112560",
+    "question": "Is the Distance Worth It?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15052394",
+    "question": "Are higher rates of depression in women accounted for by differential symptom reporting?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10781708",
+    "question": "Thrombosis prophylaxis in hospitalised medical patients: does prophylaxis in all patients make sense?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18019905",
+    "question": "The use of audit to identify maternal mortality in different settings: is it just a difference between the rich and the poor?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22023714",
+    "question": "Does delivery mode affect women's postpartum quality of life in rural China?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18570208",
+    "question": "Is severe macrosomia manifested at 11-14 weeks of gestation?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22758782",
+    "question": "Regional anesthesia as compared with general anesthesia for surgery in geriatric patients with hip fracture: does it decrease morbidity, mortality, and health care costs?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15528969",
+    "question": "Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22012962",
+    "question": "Marital status, living arrangement and mortality: does the association vary by gender?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18359123",
+    "question": "Is it better to be big?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27989969",
+    "question": "Does the Simultaneous Use of a Neuroendoscope Influence the Incidence of Ventriculoperitoneal Shunt Infection?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9488747",
+    "question": "Syncope during bathing in infants, a pediatric form of water-induced urticaria?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18472368",
+    "question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21726930",
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11862129",
+    "question": "Do clinical variables predict pathologic radiographs in the first episode of wheezing?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25779009",
+    "question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-7482275",
+    "question": "Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26864326",
+    "question": "Predicting admission at triage: are nurses better than a simple objective score?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21164063",
+    "question": "Is there a role for fondaparinux in perioperative bridging?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11483547",
+    "question": "Does the aggressive use of polyvalent antivenin for rattlesnake bites result in serious acute side effects?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19481382",
+    "question": "Is the Androgen Deficiency of Aging Men (ADAM) questionnaire useful for the screening of partial androgenic deficiency of aging men?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23283159",
+    "question": "Is obesity a risk factor for wheezing among adolescents?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12970636",
+    "question": "Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18783922",
+    "question": "Do cytokines have any role in epilepsy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17445978",
+    "question": "Is renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23568387",
+    "question": "Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12121321",
+    "question": "Do mossy fibers release GABA?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12848629",
+    "question": "Is a 9-month treatment sufficient in tuberculous enterocolitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8375607",
+    "question": "Is the breast best for children with a family history of atopy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19130332",
+    "question": "Is the zeolite hemostatic agent beneficial in reducing blood loss during arterial injury?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23379759",
+    "question": "Can early second-look tympanoplasty reduce the rate of conversion to modified radical mastoidectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27642458",
+    "question": "Did the call for boycott by the Catholic bishops affect the polio vaccination coverage in Kenya in 2015?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23359100",
+    "question": "Is etoricoxib effective in preventing heterotopic ossification after primary total hip arthroplasty?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9363244",
+    "question": "Does occupational nuclear power plant radiation affect conception and pregnancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17598882",
+    "question": "Is breast cancer prognosis inherited?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9920954",
+    "question": "Do \"America's Best Hospitals\" perform better for acute myocardial infarction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25521278",
+    "question": "Is plate clearing a risk factor for obesity?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19100463",
+    "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11458136",
+    "question": "Does managed care enable more low income persons to identify a usual source of care?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23677366",
+    "question": "Do oblique views add value in the diagnosis of spondylolysis in adolescents?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20187289",
+    "question": "Prescriptions as a proxy for asthma in children: a good choice?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24245816",
+    "question": "Is trabecular bone related to primary stability of miniscrews?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23810330",
+    "question": "Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12805495",
+    "question": "Can patients be anticoagulated after intracerebral hemorrhage?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24809662",
+    "question": "Does concomitant anterior/apical repair during midurethral sling improve the overactive bladder component of mixed incontinence?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21689015",
+    "question": "Can dogs prime autistic children for therapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24352924",
+    "question": "Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18065862",
+    "question": "Can the postoperative pain level be predicted preoperatively?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25394614",
+    "question": "Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9199905",
+    "question": "Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic manifestation of esophagitis in children?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24669960",
+    "question": "Does the sex of acute stroke patients influence the effectiveness of rt-PA?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26708803",
+    "question": "Treatment of contralateral hydrocele in neonatal testicular torsion: Is less more?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23448747",
+    "question": "Do older adults with cancer fall more often?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18568239",
+    "question": "Is the ability to perform transurethral resection of the prostate influenced by the surgeon's previous experience?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20197761",
+    "question": "Is irritable bowel syndrome a diagnosis of exclusion?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21712147",
+    "question": "Does combining antiretroviral agents in a single dosage form enhance quality of life of HIV/AIDS patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27592038",
+    "question": "Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17076091",
+    "question": "Does obstructive sleep apnea affect aerobic fitness?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21823940",
+    "question": "Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11570976",
+    "question": "Is it Crohn's disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24922528",
+    "question": "The association of puberty and young adolescent alcohol use: do parents have a moderating role?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22251324",
+    "question": "Does performance in selection processes predict performance as a dental student?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22350859",
+    "question": "Can pictorial warning labels on cigarette packages address smoking-related health disparities?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26820719",
+    "question": "Colorectal cancer in young patients: is it a distinct clinical entity?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-7664228",
+    "question": "Discharging patients earlier from Winnipeg hospitals: does it adversely affect quality of care?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22513023",
+    "question": "Do Indigenous Australians age prematurely?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18496363",
+    "question": "Characterization of the gender dimorphism after injury and hemorrhagic shock: are hormonal differences responsible?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20850631",
+    "question": "Diagnosis and follow-up in constipated children: should we use ultrasound?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22825590",
+    "question": "Are behavioural risk factors to be blamed for the conversion from optimal blood pressure to hypertensive status in Black South Africans?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25675614",
+    "question": "Can gingival crevicular blood be relied upon for assessment of blood glucose level?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20736672",
+    "question": "Does perspective-taking increase patient satisfaction in medical encounters?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17971187",
+    "question": "Cholesterol screening in school children: is family history reliable to choose the ones to screen?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24340838",
+    "question": "Do ventricular arrhythmias in athletes subside over time?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12172698",
+    "question": "Is withdrawal-induced anxiety in alcoholism based on beta-endorphin deficiency?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24336869",
+    "question": "Can routinely collected ambulance data about assaults contribute to reduction in community violence?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20337202",
+    "question": "Continuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19419587",
+    "question": "Sternal plating for primary and secondary sternal closure; can it improve sternal stability?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22694248",
+    "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19142546",
+    "question": "Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26601554",
+    "question": "Do viral infections have a role in benign paroxysmal positional vertigo?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-7547656",
+    "question": "Does continuous intravenous infusion of low-concentration epinephrine impair uterine blood flow in pregnant ewes?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18537964",
+    "question": "Does a physician's specialty influence the recording of medication history in patients' case notes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12630042",
+    "question": "Does body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15943725",
+    "question": "Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22302761",
+    "question": "Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10331115",
+    "question": "Is amoxapine an atypical antipsychotic?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26471488",
+    "question": "Does Mammographic Density have an Impact on the Margin Re-excision Rate After Breast-Conserving Surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22680064",
+    "question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9465206",
+    "question": "\"Occult\" posttraumatic lesions of the knee: can magnetic resonance substitute for diagnostic arthroscopy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24995509",
+    "question": "HIF1A as a major vascular endothelial growth factor regulator: do its polymorphisms have an association with age-related macular degeneration?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14631523",
+    "question": "Sub-classification of low-grade cerebellar astrocytoma: is it clinically meaningful?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15489384",
+    "question": "Does reducing spasticity translate into functional benefit?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26209118",
+    "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24073931",
+    "question": "Is the covering of the resection margin after distal pancreatectomy advantageous?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24061619",
+    "question": "Location and number of sutures placed for hiatal hernia repair during laparoscopic adjustable gastric banding: does it matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21849531",
+    "question": "Does growth hormone replacement therapy reduce mortality in adults with growth hormone deficiency?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28707539",
+    "question": "Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23992109",
+    "question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17691856",
+    "question": "Midwives' competence: is it affected by working in a rural location?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19694846",
+    "question": "Does self-efficacy mediate the relationship between transformational leadership behaviours and healthcare workers' sleep quality?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11943048",
+    "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15223779",
+    "question": "c-Kit-dependent growth of uveal melanoma cells: a potential therapeutic target?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25588461",
+    "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24481006",
+    "question": "Should cavitation in proximal surfaces be reported in cone beam computed tomography examination?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23916653",
+    "question": "Orthostatic myoclonus: an underrecognized cause of unsteadiness?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26113007",
+    "question": "Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12765819",
+    "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21394762",
+    "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24666444",
+    "question": "Is there any evidence of a \"July effect\" in patients undergoing major cancer surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22266735",
+    "question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24298614",
+    "question": "Is the 7th TNM edition suitable for biological predictor in early gastric cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16968876",
+    "question": "Is a patient's self-reported health-related quality of life a prognostic factor for survival in non-small-cell lung cancer patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23149821",
+    "question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12380309",
+    "question": "Should circumcision be performed in childhood?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19836806",
+    "question": "Should prostate specific antigen be adjusted for body mass index?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22154448",
+    "question": "Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky technique?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19302863",
+    "question": "Is the use of cyanoacrylate in intestinal anastomosis a good and reliable alternative?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24614789",
+    "question": "Is lumbar drainage of postoperative cerebrospinal fluid fistula after spine surgery effective?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25103647",
+    "question": "Does government assistance improve utilization of eye care services by low-income individuals?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15597845",
+    "question": "Is the combination with 2-methoxyestradiol able to reduce the dosages of chemotherapeutices in the treatment of human ovarian cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17054994",
+    "question": "Does frozen section alter surgical management of multinodular thyroid disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10834864",
+    "question": "Risk factors for avascular necrosis of bone in patients with systemic lupus erythematosus: is there a role for antiphospholipid antibodies?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24014276",
+    "question": "Optimism and survival: does an optimistic outlook predict better survival at advanced ages?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12442934",
+    "question": "Does ibuprofen increase perioperative blood loss during hip arthroplasty?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15708048",
+    "question": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27818079",
+    "question": "Is the Retromandibular Transparotid Approach a Reliable Option for the Surgical Treatment of Condylar Fractures?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23321509",
+    "question": "Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26126304",
+    "question": "Estradiol and Antagonist Pretreatment Prior to Microdose Leuprolide in in Vitro Fertilization. Does It Improve IVF Outcomes in Poor Responders as Compared to Oral Contraceptive Pill?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22522271",
+    "question": "Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18274917",
+    "question": "Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23517744",
+    "question": "Is solitary kidney really more resistant to ischemia?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27338535",
+    "question": "Do risk calculators accurately predict surgical site occurrences?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23794696",
+    "question": "Does the bracket-ligature combination affect the amount of orthodontic space closure over three months?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19108857",
+    "question": "Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26215326",
+    "question": "Does the clinical presentation of a prior preterm birth predict risk in a subsequent pregnancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23621776",
+    "question": "Does a history of unintended pregnancy lessen the likelihood of desire for sterilization reversal?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17051586",
+    "question": "Can folic acid protect against congenital heart defects in Down syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18243752",
+    "question": "Should chest wall irradiation be included after mastectomy and negative node breast cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25725704",
+    "question": "Can clinical supervision sustain our workforce in the current healthcare landscape?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8916748",
+    "question": "Do socioeconomic differences in mortality persist after retirement?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18802997",
+    "question": "Can calprotectin predict relapse risk in inflammatory bowel disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18616781",
+    "question": "Is there a relationship between homocysteine and vitiligo?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28359277",
+    "question": "Do healthier lifestyles lead to less utilization of healthcare resources?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23806388",
+    "question": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20629769",
+    "question": "Is primary angioplasty an acceptable alternative to thrombolysis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22491528",
+    "question": "Combining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19640728",
+    "question": "Surgical treatment of prosthetic valve endocarditis in patients with double prostheses: is single-valve replacement safe?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21346501",
+    "question": "Can students' scores on preclerkship clinical performance examinations predict that they will fail a senior clinical performance examination?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9603166",
+    "question": "Should all human immunodeficiency virus-infected patients with end-stage renal disease be excluded from transplantation?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21864397",
+    "question": "Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18435678",
+    "question": "Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23347337",
+    "question": "Is intensive chemotherapy safe for rural cancer patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10877371",
+    "question": "Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25280365",
+    "question": "Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21889895",
+    "question": "Will CT ordering practices change if we educate residents about the potential effects of radiation exposure?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14652839",
+    "question": "Does the sequence of clamp application during open abdominal aortic aneurysm surgery influence distal embolisation?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25475395",
+    "question": "Is there a correlation between androgens and sexual desire in women?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23761381",
+    "question": "Is calibration the cause of variation in liquid chromatography tandem mass spectrometry testosterone measurement?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10401824",
+    "question": "Is laparoscopic reoperation for failed antireflux surgery feasible?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22534881",
+    "question": "Does the radiographic transition zone correlate with the level of aganglionosis on the specimen in Hirschsprung's disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18235194",
+    "question": "Is a specialised training of phonological awareness indicated in every preschool child?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23455575",
+    "question": "Globulomaxillary cysts--do they really exist?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20971618",
+    "question": "Are lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18158048",
+    "question": "Histologic evaluation of the testicular remnant associated with the vanishing testes syndrome: is surgical management necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23076787",
+    "question": "Can increases in the cigarette tax rate be linked to cigarette retail prices?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24449622",
+    "question": "Is there a relationship between serum paraoxonase level and epicardial fat tissue thickness?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17894828",
+    "question": "Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23412195",
+    "question": "Should displaced midshaft clavicular fractures be treated surgically?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15995461",
+    "question": "Do some U.S. states have higher/lower injury mortality rates than others?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18540901",
+    "question": "Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11970923",
+    "question": "Convulsions and retinal haemorrhage: should we look further?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23870157",
+    "question": "Are intraoperative precursor events associated with postoperative major adverse events?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20084845",
+    "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19394934",
+    "question": "Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22656647",
+    "question": "Are acceptance rates of a national preventive home visit programme for older people socially imbalanced?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12846929",
+    "question": "Quality of life in lung cancer patients: does socioeconomic status matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25007420",
+    "question": "Are there mental health differences between francophone and non-francophone populations in manitoba?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26548832",
+    "question": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21074975",
+    "question": "Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8910148",
+    "question": "Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28143468",
+    "question": "Are performance measurement systems useful?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12006913",
+    "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19520213",
+    "question": "Are UK radiologists satisfied with the training and support received in suspected child abuse?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25079920",
+    "question": "Do parents recall and understand children's weight status information after BMI screening?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27136599",
+    "question": "Is it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20602101",
+    "question": "Is hypoalbuminemia an independent prognostic factor in patients with gastric cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18926458",
+    "question": "Are octogenarians at high risk for carotid endarterectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25756710",
+    "question": "Can emergency physicians accurately and reliably assess acute vertigo in the emergency department?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10223070",
+    "question": "Is perforation of the appendix a risk factor for tubal infertility and ectopic pregnancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12790890",
+    "question": "Is the cell death in mesial temporal sclerosis apoptotic?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18239988",
+    "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26370095",
+    "question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18399830",
+    "question": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9142039",
+    "question": "Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17274051",
+    "question": "Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24751724",
+    "question": "Does ethnicity affect where people with cancer die?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20537205",
+    "question": "Is halofantrine ototoxic?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18693227",
+    "question": "Does a geriatric oncology consultation modify the cancer treatment plan for elderly patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16403186",
+    "question": "Are the arginine vasopressin V1a receptor microsatellites related to hypersexuality in children with a prepubertal and early adolescent bipolar disorder phenotype?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25571931",
+    "question": "Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27643961",
+    "question": "Major depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11481172",
+    "question": "Does the manic/mixed episode distinction in bipolar disorder patients run true over time?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11977907",
+    "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19854401",
+    "question": "Attaining negative margins in breast-conservation operations: is there a consensus among breast surgeons?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17565137",
+    "question": "Out of the smokescreen II: will an advertisement targeting the tobacco industry affect young people's perception of smoking in movies and their intention to smoke?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15919266",
+    "question": "Adjuvant radiation of stage III thymoma: is it necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25499207",
+    "question": "Is neck pain associated with worse health-related quality of life 6 months later?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16971978",
+    "question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22188074",
+    "question": "Do instrumental activities of daily living predict dementia at 1- and 2-year follow-up?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12632437",
+    "question": "Are environmental factors important in primary systemic vasculitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25699562",
+    "question": "Does the Transmissible Liability Index (TLI) assessed in late childhood predict suicidal symptoms at young adulthood?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16769333",
+    "question": "Preoperative tracheobronchoscopy in newborns with esophageal atresia: does it matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24977765",
+    "question": "Are pediatric concussion patients compliant with discharge instructions?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23422012",
+    "question": "Is vancomycin MIC creep a worldwide phenomenon?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19593710",
+    "question": "Could ESC (Electronic Stability Control) change the way we drive?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16392897",
+    "question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20605051",
+    "question": "Does case-mix based reimbursement stimulate the development of process-oriented care delivery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24577079",
+    "question": "Does strategy training reduce age-related deficits in working memory?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22532370",
+    "question": "Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20306735",
+    "question": "Fulfilling human resources development goal in West Africa: can the training of ophthalmologist diplomates be improved?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22236315",
+    "question": "Is distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26778755",
+    "question": "Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23571528",
+    "question": "Sternal skin conductance: a reasonable surrogate for hot flash measurement?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16772913",
+    "question": "A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21459725",
+    "question": "Xanthogranulomatous cholecystitis: a premalignant condition?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22644412",
+    "question": "Hepatic arterial embolization for unresectable hepatocellular carcinomas: do technical factors affect prognosis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19546588",
+    "question": "Does increasing blood pH stimulate protein synthesis in dialysis patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10375486",
+    "question": "Are variations in the use of carotid endarterectomy explained by population Need?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16266387",
+    "question": "Fast foods - are they a risk factor for asthma?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12098035",
+    "question": "Does a special interest in laparoscopy affect the treatment of acute cholecystitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11833948",
+    "question": "Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12145243",
+    "question": "Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes associated with improved outcomes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11035130",
+    "question": "Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26965932",
+    "question": "Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21658267",
+    "question": "Do improvements in outreach, clinical, and family and community-based services predict improvements in child survival?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25311479",
+    "question": "The inverse equity hypothesis: does it apply to coverage of cancer screening in middle-income countries?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25503376",
+    "question": "Does airway surgery lower serum lipid levels in obstructive sleep apnea patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18719011",
+    "question": "Do overweight children necessarily make overweight adults?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22720085",
+    "question": "Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21214884",
+    "question": "Can 'high-risk' human papillomaviruses (HPVs) be detected in human breast milk?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21361755",
+    "question": "Laminoplasty outcomes: is there a difference between patients with degenerative stenosis and those with ossification of the posterior longitudinal ligament?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8738894",
+    "question": "Diabetes mellitus among Swedish art glass workers--an effect of arsenic exposure?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27131771",
+    "question": "Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24671913",
+    "question": "Does SYNTAX score predict in-hospital outcomes in patients with ST elevation myocardial infarction undergoing primary percutaneous coronary intervention?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18565233",
+    "question": "Does the lipid-lowering peroxisome proliferator-activated receptors ligand bezafibrate prevent colon cancer in patients with coronary artery disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23375036",
+    "question": "An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21952349",
+    "question": "Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11411430",
+    "question": "Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14692023",
+    "question": "Is breast cancer survival improving?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19575104",
+    "question": "Do foreign bodies migrate through the body towards the heart?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19103915",
+    "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26419377",
+    "question": "Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15502995",
+    "question": "Does the early adopter of drugs exist?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11146778",
+    "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10973547",
+    "question": "Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18667100",
+    "question": "Do risk factors for suicidal behavior differ by affective disorder polarity?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-7497757",
+    "question": "Cardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10381996",
+    "question": "Clinician assessment for acute chest syndrome in febrile patients with sickle cell disease: is it accurate enough?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16465002",
+    "question": "Dose end-tidal carbon dioxide measurement correlate with arterial carbon dioxide in extremely low birth weight infants in the first week of life?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15841770",
+    "question": "Do inhaled steroids differ from cromones in terms of hospital admission rates for asthma in children?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22233470",
+    "question": "Does the distribution of health care benefits in Kenya meet the principles of universal coverage?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23949294",
+    "question": "Treatment as prevention in resource-limited settings: is it feasible to maintain HIV viral load suppression over time?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22453060",
+    "question": "Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme®?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9722752",
+    "question": "Does bone anchor fixation improve the outcome of percutaneous bladder neck suspension in female stress urinary incontinence?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9616411",
+    "question": "Do general practitioner hospitals reduce the utilisation of general hospital beds?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14872327",
+    "question": "Is pain a clinically relevant problem in general adult psychiatry?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20608141",
+    "question": "PSA repeatedly fluctuating levels are reassuring enough to avoid biopsy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26134053",
+    "question": "Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12090319",
+    "question": "Is there a need for pelvic CT scan in cases of renal cell carcinoma?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19578820",
+    "question": "Are opioid dependence and methadone maintenance treatment (MMT) documented in the medical record?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18182265",
+    "question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16296668",
+    "question": "Can bedside assessment reliably exclude aspiration following acute stroke?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23224030",
+    "question": "Do European people with type 1 diabetes consume a high atherogenic diet?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12484580",
+    "question": "Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27858166",
+    "question": "Traumatic aortic injury: does the anatomy of the aortic arch influence aortic trauma severity?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22075911",
+    "question": "Is there a differential in the dental health of new recruits to the British Armed Forces?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10173769",
+    "question": "Longer term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28056802",
+    "question": "Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16678696",
+    "question": "Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10201555",
+    "question": "Is low serum chloride level a risk factor for cardiovascular mortality?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-7860319",
+    "question": "Measuring hospital mortality rates: are 30-day data enough?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10490564",
+    "question": "Hypotension in patients with coronary disease: can profound hypotensive events cause myocardial ischaemic events?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19923859",
+    "question": "Can T-cell deficiency affect spatial learning ability following toluene exposure?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11438275",
+    "question": "Does patient position during liver surgery influence the risk of venous air embolism?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24996865",
+    "question": "Assessing joint line positions by means of the contralateral knee: a new approach for planning knee revision surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18319270",
+    "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27615402",
+    "question": "Does the familial transmission of drinking patterns persist into young adulthood?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10135926",
+    "question": "Is oral endotracheal intubation efficacy impaired in the helicopter environment?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24507422",
+    "question": "Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22042121",
+    "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20571467",
+    "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20549895",
+    "question": "Health habits and vaccination status of Lebanese residents: are future doctors applying the rules of prevention?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24013712",
+    "question": "Preoperative platelet count in esophageal squamous cell carcinoma: is it a prognostic factor?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10922093",
+    "question": "Does open access endoscopy close the door to an adequately informed patient?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19351635",
+    "question": "Do older patients receive adequate stroke care?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27287237",
+    "question": "Assessment of appropriate antimicrobial prescribing: do experts agree?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23539689",
+    "question": "Cold preparation use in young children after FDA warnings: do concerns still exist?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16872243",
+    "question": "Can decisional algorithms replace global introspection in the individual causality assessment of spontaneously reported ADRs?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26418441",
+    "question": "Can we ease the financial burden of colonoscopy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19913785",
+    "question": "Is it necessary to insert a nasobiliary drainage tube routinely after endoscopic clearance of the common bile duct in patients with choledocholithiasis-induced cholangitis?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26879871",
+    "question": "Does depression diagnosis and antidepressant prescribing vary by location?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8847047",
+    "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23495128",
+    "question": "The colour of pain: can patients use colour to describe osteoarthritis pain?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24139705",
+    "question": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26852225",
+    "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17621202",
+    "question": "Does shaving the incision site increase the infection rate after spinal surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25669733",
+    "question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12040336",
+    "question": "Cardiogenic shock complicating acute myocardial infarction in elderly patients: does admission to a tertiary center improve survival?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20736887",
+    "question": "Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24359102",
+    "question": "Two-year follow-up survey of patients with allergic contact dermatitis from an occupational cohort: is the prognosis dependent on the omnipresence of the allergen?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22504515",
+    "question": "Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24739448",
+    "question": "Have antiepileptic drug prescription claims changed following the FDA suicidality warning?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23848044",
+    "question": "Does oxybutynin hydrochloride cause arrhythmia in children with bladder dysfunction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19468282",
+    "question": "Is determination between complete and incomplete traumatic spinal cord injury clinically relevant?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23736032",
+    "question": "Multidisciplinary decisions in breast cancer: does the patient receive what the team has recommended?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18307476",
+    "question": "Upstream solutions: does the supplemental security income program reduce disability in the elderly?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22540518",
+    "question": "Is micro-computed tomography reliable to determine the microstructure of the maxillary alveolar bone?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10456814",
+    "question": "Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15774570",
+    "question": "Does increased use of private health care reduce the demand for NHS care?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23025584",
+    "question": "Does stress increase imitation of drinking behavior?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18714572",
+    "question": "Does vaginal intraepithelial neoplasia have the same evolution as cervical intraepithelial neoplasia?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15488260",
+    "question": "Is the type of remission after a major depressive episode an important risk factor to relapses in a 4-year follow up?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11567820",
+    "question": "Does increased nerve length within the treatment volume improve trigeminal neuralgia radiosurgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27757987",
+    "question": "Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25481573",
+    "question": "Processing fluency effects: can the content and presentation of participant information sheets influence recruitment and participation for an antenatal intervention?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11079675",
+    "question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21123461",
+    "question": "Are adult body circumferences associated with height?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25277731",
+    "question": "Sternal fracture in growing children : A rare and often overlooked fracture?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15918864",
+    "question": "Learning needs of postpartum women: does socioeconomic status matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20354380",
+    "question": "Do women residents delay childbearing due to perceived career threats?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27096199",
+    "question": "Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11926574",
+    "question": "Are hepatitis G virus and TT virus involved in cryptogenic chronic liver disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16816043",
+    "question": "Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26516021",
+    "question": "Does evidence-based practice improve patient outcomes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9427037",
+    "question": "Are endothelial cell patterns of astrocytomas indicative of grade?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24799031",
+    "question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16538201",
+    "question": "Does use of hydrophilic guidewires significantly improve technical success rates of peripheral PTA?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21342862",
+    "question": "Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14599616",
+    "question": "Can a practicing surgeon detect early lymphedema reliably?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10749257",
+    "question": "Has the mammography quality standards act affected the mammography quality in North Carolina?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26348845",
+    "question": "Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12963175",
+    "question": "Can progression of valvar aortic stenosis be predicted accurately?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23177368",
+    "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26578404",
+    "question": "Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27044366",
+    "question": "Detailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10798511",
+    "question": "Blunt trauma in intoxicated patients: is computed tomography of the abdomen always necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8521557",
+    "question": "The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8921484",
+    "question": "Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-23497210",
+    "question": "Are women with major depression in pregnancy identifiable in population health data?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16778275",
+    "question": "Is routine chest radiography after transbronchial biopsy necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24476003",
+    "question": "Is nasogastric decompression useful in prevention of leaks after laparoscopic sleeve gastrectomy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8165771",
+    "question": "Ultrasound in squamous cell carcinoma of the penis; a useful addition to clinical staging?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25752912",
+    "question": "Is the probability of prenatal diagnosis or termination of pregnancy different for fetuses with congenital anomalies conceived following assisted reproductive techniques?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19237087",
+    "question": "Are many colorectal cancers due to missed adenomas?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16809243",
+    "question": "Is fetal gender associated with emergency department visits for asthma during pregnancy?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26304701",
+    "question": "Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12913878",
+    "question": "Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10548670",
+    "question": "Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16147837",
+    "question": "Is grandmultiparity an independent risk factor for adverse perinatal outcomes?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21431987",
+    "question": "Preoperative staging of patients with liver metastases of colorectal carcinoma. Does PET/CT really add something to multidetector CT?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26536001",
+    "question": "Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18507507",
+    "question": "The promise of specialty pharmaceuticals: are they worth the price?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12094116",
+    "question": "Is muscle power related to running speed with changes of direction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19027440",
+    "question": "Can we predict which head and neck cancer survivors develop fears of recurrence?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25752725",
+    "question": "Schizophrenia patients with high intelligence: A clinically distinct sub-type of schizophrenia?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24495711",
+    "question": "Is crime associated with over-the-counter pharmacy syringe sales?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20602784",
+    "question": "Identification of racial disparities in breast cancer mortality: does scale matter?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20064872",
+    "question": "Can the prognosis of polymyalgia rheumatica be predicted at disease onset?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22902073",
+    "question": "Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26460153",
+    "question": "Cardiac reoperations in octogenarians: Do they really benefit?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16735905",
+    "question": "Does the severity of obstructive sleep apnea predict patients requiring high continuous positive airway pressure?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17062234",
+    "question": "Surgical management of the atherosclerotic ascending aorta: is endoaortic balloon occlusion safe?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26037986",
+    "question": "30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22011946",
+    "question": "Does a preoperative medically supervised weight loss program improve bariatric surgery outcomes?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26923375",
+    "question": "Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9542484",
+    "question": "Does successful completion of the Perinatal Education Programme result in improved obstetric practice?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27217036",
+    "question": "Neoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15208005",
+    "question": "The Omega-3 Index: a new risk factor for death from coronary heart disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-14697414",
+    "question": "Is there a favorable subset of patients with prostate cancer who develop oligometastases?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24191126",
+    "question": "Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12163782",
+    "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11867487",
+    "question": "Does rugby headgear prevent concussion?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21252642",
+    "question": "Does increased patient awareness improve accrual into cancer-related clinical trials?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28196511",
+    "question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16046584",
+    "question": "Menopausal hormone therapy and irregular endometrial bleeding: a potential role for uterine natural killer cells?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26163474",
+    "question": "Is there a connection between sublingual varices and hypertension?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22668852",
+    "question": "Do African American women require fewer calories to maintain weight?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25793749",
+    "question": "Do Web-based and clinic samples of gay men living with HIV differ on self-reported physical and psychological symptoms?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27281318",
+    "question": "Can Flexible Instruments Create Adequate Femoral Tunnel Lengths at 90° of Knee Flexion in Anterior Cruciate Ligament Reconstruction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20538207",
+    "question": "Should temperature be monitorized during kidney allograft preservation?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17910536",
+    "question": "Adults with mild intellectual disabilities: can their reading comprehension ability be improved?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22876568",
+    "question": "Is vitamin D deficiency a feature of pediatric celiac disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27040842",
+    "question": "Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17940352",
+    "question": "Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22365295",
+    "question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18179827",
+    "question": "Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12769830",
+    "question": "Should tumor depth be included in prognostication of soft tissue sarcoma?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21481154",
+    "question": "Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21845457",
+    "question": "Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12070552",
+    "question": "Do antibiotics decrease post-tonsillectomy morbidity?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12221908",
+    "question": "The HELPP syndrome--evidence of a possible systemic inflammatory response in pre-eclampsia?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-20577124",
+    "question": "Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15053041",
+    "question": "Do acute changes in heart rate by isoproterenol affect aortic stiffness in patients with hypertension?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25887165",
+    "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16827975",
+    "question": "Chemotherapy and survival in advanced non-small cell lung carcinoma: is pneumologists' skepticism justified?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22537902",
+    "question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-8566975",
+    "question": "Serovar specific immunity to Neisseria gonorrhoeae: does it exist?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17192736",
+    "question": "Is fluoroscopy essential for retrieval of lower ureteric stones?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18594195",
+    "question": "Do older patients who refuse to participate in a self-management intervention in the Netherlands differ from older patients who agree to participate?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26907557",
+    "question": "Can a Novel Surgical Approach to the Temporomandibular Joint Improve Access and Reduce Complications?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-10158597",
+    "question": "Does a dedicated discharge coordinator improve the quality of hospital discharge?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25614468",
+    "question": "Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26200172",
+    "question": "Can biofeedback training of psychophysiological responses enhance athletes' sport performance?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24622801",
+    "question": "Does implant coating with antibacterial-loaded hydrogel reduce bacterial colonization and biofilm formation in vitro?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24698298",
+    "question": "MR arthrography of the shoulder: do we need local anesthesia?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12377809",
+    "question": "Is anorectal endosonography valuable in dyschesia?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22348433",
+    "question": "Does partial expander deflation exacerbate the adverse effects of radiotherapy in two-stage breast reconstruction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25940336",
+    "question": "Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17355582",
+    "question": "Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21946341",
+    "question": "Is there a relationship between complex fractionated atrial electrograms recorded during atrial fibrillation and sinus rhythm fractionation?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-9483814",
+    "question": "Does para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22382608",
+    "question": "SPECT study with I-123-Ioflupane (DaTSCAN) in patients with essential tremor. Is there any correlation with Parkinson's disease?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16418930",
+    "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18378554",
+    "question": "Are wandering and physically nonaggressive agitation equivalent?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18928979",
+    "question": "Can myometrial electrical activity identify patients in preterm labor?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-22497340",
+    "question": "Is horizontal semicircular canal ocular reflex influenced by otolith organs input?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21194998",
+    "question": "Does minimal access major surgery in the newborn hurt less?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18568290",
+    "question": "Is there a role for endothelin-1 in the hemodynamic changes during hemodialysis?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24270957",
+    "question": "Is combined therapy more effective than growth hormone or hyperbaric oxygen alone in the healing of left ischemic and non-ischemic colonic anastomoses?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-26556589",
+    "question": "Does type 1 diabetes mellitus affect Achilles tendon response to a 10 km run?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11955750",
+    "question": "Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12595848",
+    "question": "Is specialty care associated with improved survival of patients with congestive heart failure?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18284441",
+    "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25986020",
+    "question": "Is zero central line-associated bloodstream infection rate sustainable?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-24591144",
+    "question": "Are the elderly with oropharyngeal carcinoma undertreated?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17276182",
+    "question": "Stretch-sensitive KCNQ1 mutation A link between genetic and environmental factors in the pathogenesis of atrial fibrillation?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25810292",
+    "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-12407608",
+    "question": "Does ultrasound imaging before puncture facilitate internal jugular vein cannulation?\nA. yes\nB. no\nC. maybe",
+    "gold": "C",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15050326",
+    "question": "Does radiotherapy around the time of pregnancy for Hodgkin's disease modify the risk of breast cancer?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17682349",
+    "question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-15041506",
+    "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-16776337",
+    "question": "Pituitary apoplexy: do histological features influence the clinical presentation and outcome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27549226",
+    "question": "Impact of MPH programs: contributing to health system strengthening in low- and middle-income countries?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21256734",
+    "question": "Does pain intensity predict a poor opioid response in cancer patients?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-18222909",
+    "question": "Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-25604390",
+    "question": "Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node metastasis preoperatively?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-28247485",
+    "question": "Is the first urinary albumin/creatinine ratio (ACR) in women with suspected preeclampsia a prognostic factor for maternal and neonatal adverse outcome?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21420186",
+    "question": "Could ADMA levels in young adults born preterm predict an early endothelial dysfunction?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-21850494",
+    "question": "Hepatorenal syndrome: are we missing some prognostic factors?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-17342562",
+    "question": "The clinical significance of bile duct sludge: is it different from bile duct stones?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-11138995",
+    "question": "Is alexithymia a risk factor for unexplained physical symptoms in general medical outpatients?\nA. yes\nB. no\nC. maybe",
+    "gold": "B",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-27456836",
+    "question": "Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  },
+  {
+    "id": "pubmedqa-19430778",
+    "question": "Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?\nA. yes\nB. no\nC. maybe",
+    "gold": "A",
+    "name": "pubmedqa",
+    "long": false
+  }
+]
