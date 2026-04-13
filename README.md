@@ -4,7 +4,8 @@
 
 [![Paper](https://img.shields.io/badge/Paper-ACL_2026_Findings-4A90E2?style=for-the-badge)](#)
 [![Model](https://img.shields.io/badge/Model-MedSSR_Qwen3_8B_Base-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/tdlhl/MedSSR-Qwen3-8B-Base)
-[![Dataset](https://img.shields.io/badge/Dataset-RareDis_Sub-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/RareDis-Sub)
+[![Trainset](https://img.shields.io/badge/Dataset-Synthetic_Training_Set-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/MedSSR-Synthetic-43K)
+[![Testset](https://img.shields.io/badge/Testset-RareDis_Sub-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/RareDis-Sub)
 
 **This is the code repository for our ACL 2026 Findings paper [Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach](https://to-be-fill).**
 
