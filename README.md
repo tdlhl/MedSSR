@@ -2,7 +2,7 @@
 
 # [ACL 2026] MedSSR
 
-[![Paper](https://img.shields.io/badge/Paper-ACL_2026_Findings-4A90E2?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-4A90E2?style=for-the-badge)](https://arxiv.org/pdf/2604.11547)
 [![Model](https://img.shields.io/badge/Model-MedSSR_Qwen3_8B_Base-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/tdlhl/MedSSR-Qwen3-8B-Base)
 [![Trainset](https://img.shields.io/badge/Dataset-Synthetic_Training_Set-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/MedSSR-Synthetic-43K)
 [![Testset](https://img.shields.io/badge/Testset-RareDis_Sub-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/RareDis-Sub)
@@ -106,13 +106,13 @@ For the training pipeline, we use the [verl](https://github.com/verl-project/ver
 
 ## Citation
 
-Please update this section with the final ACL 2026 Findings citation.
+If you find our repo useful, please cite our paper:
 
 ```bibtex
-@inproceedings{medssr2026,
+@article{li2025eliciting,
   title={Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach},
-  author={[TODO]},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  author={Haolin Li, Shuyang Jiang, Ruipeng Zhang, Jiangchao Yao, Ya Zhang, Yanfeng Wang},
+  journal={arXiv preprint arXiv:2604.11547},
   year={2026}
 }
 ```
