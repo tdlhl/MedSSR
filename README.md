@@ -103,9 +103,9 @@ For the training pipeline, we use the [verl](https://github.com/verl-project/ver
 If you find our repo useful, please cite our paper:
 
 ```bibtex
-@article{li2025eliciting,
+@article{li2026eliciting,
   title={Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach},
-  author={Haolin Li, Shuyang Jiang, Ruipeng Zhang, Jiangchao Yao, Ya Zhang, Yanfeng Wang},
+  author={Li, Haolin and Jiang, Shuyang and Zhang, Ruipeng and Yao, Jiangchao and Zhang, Ya and Wang, Yanfeng},
   journal={arXiv preprint arXiv:2604.11547},
   year={2026}
 }
