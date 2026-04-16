@@ -11,12 +11,6 @@
 
 </div>
 
-## News
-
-- `[TODO]` Paper link
-- `[TODO]` Hugging Face model link
-- `[TODO]` Dataset link
-
 ## Overview
 
 <img src="utils/medssr_method.jpg" alt="" align=center />
