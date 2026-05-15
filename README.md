@@ -7,7 +7,7 @@
 [![Trainset](https://img.shields.io/badge/Dataset-Synthetic_Training_Set-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/MedSSR-Synthetic-43K)
 [![Testset](https://img.shields.io/badge/Testset-RareDis_Sub-7BC96F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/tdlhl/RareDis-Sub)
 
-**This is the code repository for our ACL 2026 Findings paper [Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach](https://to-be-fill).**
+**This is the code repository for our ACL 2026 Findings paper [Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach](https://arxiv.org/pdf/2604.11547).**
 
 </div>
 
